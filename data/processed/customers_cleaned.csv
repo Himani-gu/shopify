@@ -1,0 +1,702 @@
+customer_id,customer_name,segment,city,state,region
+277,The Bicycle Accessories Company,Specialty Bike Shop,Alhambra,California,United States
+455,Timely Shipping Service,Value Added Reseller,Alpine,California,United States
+609,Good Toys,Value Added Reseller,Auburn,California,United States
+492,Basic Sports Equipment,Specialty Bike Shop,Baldwin Park,California,United States
+365,Distinctive Store,Specialty Bike Shop,Barstow,California,United States
+168,Economy Bikes Company,Specialty Bike Shop,Bell Gardens,California,United States
+6,Aerobic Exercise Company,Warehouse,Camarillo,California,United States
+402,Pro Sporting Goods,Warehouse,Camarillo,California,United States
+529,Big-Time Bike Store,Warehouse,Camarillo,California,United States
+241,Vale Riding Supplies,Specialty Bike Shop,Canoga Park,California,United States
+167,Farthermost Bike Shop,Value Added Reseller,Carson,California,United States
+187,Trailblazing Sports,Warehouse,Cerritos,California,United States
+493,Valley Bicycle Distributors,Warehouse,Citrus Heights,California,United States
+366,Extended Bike Sales,Warehouse,City Of Commerce,California,United States
+312,Resale Services,Value Added Reseller,Culver City,California,United States
+151,Futuristic Bikes,Warehouse,Culver City,California,United States
+674,Discount Tours,Specialty Bike Shop,Daly City,California,United States
+329,"Unicycles, Bicycles, And Tricycles",Specialty Bike Shop,Downey,California,United States
+313,Metropolitan Manufacturing,Specialty Bike Shop,El Cajon,California,United States
+25,Coalition Bike Company,Value Added Reseller,El Segundo,California,United States
+131,Eighth Bike Store,Value Added Reseller,El Segundo,California,United States
+648,Small Bike Shop,Value Added Reseller,El Segundo,California,United States
+528,Alpine Ski House,Specialty Bike Shop,Elk Grove,California,United States
+257,Number 1 Supply,Warehouse,Escondido,California,United States
+474,Retail Cycle Shop,Specialty Bike Shop,Eureka,California,United States
+113,Trendy Department Stores,Value Added Reseller,Fontana,California,United States
+5,Metropolitan Sports Supply,Specialty Bike Shop,Fremont,California,United States
+61,Many Bikes Store,Value Added Reseller,Fullerton,California,United States
+385,Sturdy Toys,Value Added Reseller,Gilroy,California,United States
+330,The New Bike Store,Warehouse,Hanford,California,United States
+60,Main Bicycle Services,Warehouse,Hayward,California,United States
+456,Riding Excursions,Specialty Bike Shop,Irvine,California,United States
+608,Golf And Cycle Store,Warehouse,La Mesa,California,United States
+403,Affordable Sports Equipment,Value Added Reseller,Lake Elsinore,California,United States
+275,Outdoor Sporting Goods,Warehouse,Lakewood,California,United States
+41,Distant Inn,Specialty Bike Shop,Milpitas,California,United States
+133,Commercial Sporting Goods,Warehouse,Modesto,California,United States
+491,Area Bike Accessories,Value Added Reseller,Modesto,California,United States
+203,Separate Parts Corporation,Value Added Reseller,Monrovia,California,United States
+97,Mountain Bike Center,Value Added Reseller,Newark,California,United States
+42,Healthy Activity Store,Warehouse,Newport Beach,California,United States
+419,Exertion Activities Club,Specialty Bike Shop,Norwalk,California,United States
+600,Strenuous Exercise Shop,Value Added Reseller,Norwalk,California,United States
+331,Technical Parts Manufacturing,Value Added Reseller,Ontario,California,United States
+78,Preferred Bikes,Warehouse,Ontario,California,United States
+240,Wire Baskets And Parts,Value Added Reseller,Orange,California,United States
+276,Thrifty Parts And Sales,Value Added Reseller,Oxnard,California,United States
+295,Engineered Bike Systems,Specialty Bike Shop,Oxnard,California,United States
+95,Rural Department Store,Specialty Bike Shop,Pleasanton,California,United States
+383,Vehicle Shop,Specialty Bike Shop,Redlands,California,United States
+258,Quantity Discounts,Value Added Reseller,Sacramento,California,United States
+545,Finish And Sealant Products,Value Added Reseller,San Bruno,California,United States
+367,Brown Bicycle Company,Value Added Reseller,San Diego,California,United States
+77,Mechanical Products Ltd.,Specialty Bike Shop,San Diego,California,United States
+114,Two Wheels Cycle Store,Specialty Bike Shop,San Francisco,California,United States
+185,Weekend Bike Tours,Value Added Reseller,San Jose,California,United States
+349,Exercise Center,Value Added Reseller,San Jose,California,United States
+511,Wheel Gallery,Warehouse,San Mateo,California,United States
+23,Bike World,Specialty Bike Shop,San Ramon,California,United States
+384,Sparkling Paint And Finishes,Warehouse,San Ysidro,California,United States
+599,Westside Plaza,Warehouse,Sand City,California,United States
+649,Sports Products Store,Specialty Bike Shop,Santa Ana,California,United States
+96,More Bikes!,Warehouse,Santa Ana,California,United States
+239,Bicycle Merchandise Warehouse,Warehouse,Santa Monica,California,United States
+420,Extreme Riding Supplies,Warehouse,Sherman Oaks,California,United States
+259,Highway Bike Shop,Specialty Bike Shop,Simi Valley,California,United States
+150,Fleet Bikes,Specialty Bike Shop,Stockton,California,United States
+204,Traction Tire Company,Specialty Bike Shop,Torrance,California,United States
+510,World Bike Discount Store,Specialty Bike Shop,Trabuco Canyon,California,United States
+24,Eastside Department Store,Warehouse,Union City,California,United States
+311,Principal Bike Company,Warehouse,Upland,California,United States
+347,Bike Universe,Specialty Bike Shop,Vacaville,California,United States
+582,Professional Sales And Service,Value Added Reseller,Van Nuys,California,United States
+59,Locks Company,Specialty Bike Shop,Visalia,California,United States
+294,Flawless Bike Shop,Value Added Reseller,Vista,California,United States
+565,Metallic Paint And Overcoat Co,Specialty Bike Shop,Vista,California,United States
+547,Curbside Sporting Goods,Specialty Bike Shop,Walnut Creek,California,United States
+421,Fitness Cycling,Value Added Reseller,Whittier,California,United States
+296,Extreme Toy Store,Warehouse,Birmingham,Alabama,United States
+224,Pedal Systems Company,Warehouse,Florence,Alabama,United States
+44,Games And Sport Supply Company,Specialty Bike Shop,Huntsville,Alabama,United States
+387,Racing Association,Warehouse,Huntsville,Alabama,United States
+189,Principal Bicycle Supply,Specialty Bike Shop,Mobile,Alabama,United States
+332,Topnotch Bikes,Specialty Bike Shop,Montgomery,Alabama,United States
+205,Rally Master Company Inc,Warehouse,Chandler,Arizona,United States
+625,Major Sporting Goods,Specialty Bike Shop,Chandler,Arizona,United States
+563,Systematic Sales,Warehouse,Gilbert,Arizona,United States
+457,Retail Sporting Equipment,Warehouse,Mesa,Arizona,United States
+473,Racing Toys,Value Added Reseller,Phoenix,Arizona,United States
+437,Professional Cycle Store,Value Added Reseller,Phoenix,Arizona,United States
+475,Real Sporting Goods,Warehouse,Phoenix,Arizona,United States
+624,First Cycle Store,Value Added Reseller,Scottsdale,Arizona,United States
+610,Fitness Department Stores,Specialty Bike Shop,Scottsdale,Arizona,United States
+583,Professional Containers And Packaging Co.,Specialty Bike Shop,Surprise,Arizona,United States
+509,Fun Toys And Bikes,Value Added Reseller,Tucson,Arizona,United States
+439,Regional Manufacturing,Warehouse,Tucson,Arizona,United States
+222,Sample Bike Store,Value Added Reseller,Denver,Colorado,United States
+223,Paints And Solvents Company,Specialty Bike Shop,Englewood,Colorado,United States
+79,Reasonable Bicycle Sales,Value Added Reseller,Greeley,Colorado,United States
+523,Futuristic Sport Distributors,Warehouse,Longmont,Colorado,United States
+546,Field Trip Store,Value Added Reseller,Loveland,Colorado,United States
+348,Bold Bike Accessories,Warehouse,Loveland,Colorado,United States
+527,Fun Times Club,Value Added Reseller,Parker,Colorado,United States
+132,Another Sporting Goods Company,Specialty Bike Shop,Westminster,Colorado,United States
+149,Initial Bike Company,Value Added Reseller,Westminster,Colorado,United States
+143,Modern Bike Store,Value Added Reseller,East Haven,Connecticut,United States
+71,Outdoor Distributors,Specialty Bike Shop,Farmington,Connecticut,United States
+251,Endurance Bikes,Warehouse,Hamden,Connecticut,United States
+252,Classic Cycle Store,Value Added Reseller,Milford,Connecticut,United States
+684,Lease-A-Bike Shop,Warehouse,Milford,Connecticut,United States
+691,Mountain Bike Store,Value Added Reseller,New Haven,Connecticut,United States
+125,Immediate Repair Shop,Value Added Reseller,Stamford,Connecticut,United States
+216,Painters Bicycle Specialists,Specialty Bike Shop,Waterbury,Connecticut,United States
+215,Eleventh Bike Store,Value Added Reseller,Westport,Connecticut,United States
+261,Functional Store North,Value Added Reseller,Altamonte Springs,Florida,United States
+611,Front Runner Bikes,Warehouse,Bradenton,Florida,United States
+153,Widget Bicycle Specialists,Specialty Bike Shop,Clearwater,Florida,United States
+549,Daring Rides,Value Added Reseller,Clearwater,Florida,United States
+458,Simple Bike Parts,Value Added Reseller,Destin,Florida,United States
+612,General Associates,Value Added Reseller,Hollywood,Florida,United States
+243,Recreation Supplies,Value Added Reseller,Kendall,Florida,United States
+495,Tough And Reliable Parts,Specialty Bike Shop,Lakeland,Florida,United States
+315,Juvenile Sports Equipment,Value Added Reseller,Merritt Island,Florida,United States
+494,Worthwhile Activity Store,Value Added Reseller,Miami,Florida,United States
+242,Spoke Manufacturers,Warehouse,Miami,Florida,United States
+260,Industrial Supplies,Warehouse,Miami,Florida,United States
+188,Variety Bike Outlet,Value Added Reseller,Miami,Florida,United States
+81,Rally Day Mall,Warehouse,Miami,Florida,United States
+98,Superlative Bikes,Specialty Bike Shop,Miami,Florida,United States
+26,Stylish Department Stores,Specialty Bike Shop,Miami,Florida,United States
+8,Exemplary Cycles,Specialty Bike Shop,Miami,Florida,United States
+603,Retail Toy Store,Value Added Reseller,Miami,Florida,United States
+628,Executive Discount Store,Specialty Bike Shop,Miami,Florida,United States
+675,Bike Goods,Warehouse,North Miami Beach,Florida,United States
+278,Tread Industries,Warehouse,Orlando,Florida,United States
+440,Hobby Store,Value Added Reseller,Orlando,Florida,United States
+530,Valuable Bike Parts Company,Value Added Reseller,Orlando,Florida,United States
+99,Unified Sports Company,Warehouse,Sarasota,Florida,United States
+80,Racks And Security Systems,Specialty Bike Shop,Sunrise,Florida,United States
+477,Quitting Business Distributors,Specialty Bike Shop,Tampa,Florida,United States
+531,Sunny Place Bikes,Specialty Bike Shop,Vero Beach,Florida,United States
+116,Retirement Activities Association,Value Added Reseller,Atlanta,Georgia,United States
+651,Retread Tire Company,Value Added Reseller,Augusta,Georgia,United States
+676,Better Bike Shop,Value Added Reseller,Austell,Georgia,United States
+525,Cycles And Scooters,Specialty Bike Shop,Byron,Georgia,United States
+152,Distance Bikes,Value Added Reseller,Clarkston,Georgia,United States
+476,Noiseless Gear Company,Value Added Reseller,Columbus,Georgia,United States
+368,Elemental Sporting Goods,Specialty Bike Shop,Decatur,Georgia,United States
+459,Parts Shop,Specialty Bike Shop,La Grange,Georgia,United States
+652,Selected Distributors,Specialty Bike Shop,Marietta,Georgia,United States
+351,Acclaimed Bicycle Company,Warehouse,Mcdonough,Georgia,United States
+171,Eighty Toy Stores,Specialty Bike Shop,Mcdonough,Georgia,United States
+584,Qualified Sales And Repair Services,Warehouse,Savannah,Georgia,United States
+117,Pedals Warehouse,Specialty Bike Shop,Suwanee,Georgia,United States
+110,Vintage Sport Boutique,Value Added Reseller,Idaho Falls,Idaho,United States
+488,Bicycle Accessories And Kits,Value Added Reseller,Lewiston,Idaho,United States
+398,Commendable Bikes,Specialty Bike Shop,Sandpoint,Idaho,United States
+148,Lots Of Bikes Storehouse,Warehouse,Carol Stream,Illinois,United States
+147,Local Hardware Factory,Specialty Bike Shop,Chicago,Illinois,United States
+183,This Area Sporting Goods,Specialty Bike Shop,Chicago,Illinois,United States
+237,Client Discount Store,Value Added Reseller,Chicago,Illinois,United States
+219,Extras Sporting Goods,Value Added Reseller,Chicago,Illinois,United States
+58,Largest Bike Store,Value Added Reseller,Chicago,Illinois,United States
+111,Westside Cycle Store,Specialty Bike Shop,Elgin,Illinois,United States
+400,Local Sales And Rental,Value Added Reseller,Joliet,Illinois,United States
+346,Great Bicycle Supply,Value Added Reseller,Moline,Illinois,United States
+472,Summer Sports Place,Warehouse,Norridge,Illinois,United States
+310,Orange Bicycle Company,Specialty Bike Shop,Peoria,Illinois,United States
+622,Gift And Toy Store,Specialty Bike Shop,Tuscola,Illinois,United States
+57,Leading Sales & Repair,Warehouse,West Chicago,Illinois,United States
+129,Discount Bicycle Specialists,Specialty Bike Shop,Wood Dale,Illinois,United States
+76,Out-Of-The-Way Hotels,Value Added Reseller,Wood Dale,Illinois,United States
+414,Grand Discount Store,Warehouse,Daleville,Indiana,United States
+161,Weekend Tours,Value Added Reseller,Fort Wayne,Indiana,United States
+234,Eastside Sporting Goods,Value Added Reseller,Indianapolis,Indiana,United States
+432,Super Sports Store,Warehouse,Indianapolis,Indiana,United States
+342,Leather And Vinyl Manufacturing,Warehouse,Indianapolis,Indiana,United States
+636,Recreation Systems,Value Added Reseller,Logansport,Indiana,United States
+305,Professional Sporting Goods,Warehouse,Michigan City,Indiana,United States
+396,Executive Gift Store,Warehouse,New Castle,Indiana,United States
+36,Exotic Bikes,Warehouse,South Bend,Indiana,United States
+225,Optimal Bikes,Value Added Reseller,Campbellsville,Kentucky,United States
+369,Distinctive Cycles Sales & Service,Warehouse,Florence,Kentucky,United States
+513,Village Tours,Specialty Bike Shop,Newport,Kentucky,United States
+297,Blue-Ribbon Bike Company,Value Added Reseller,Saint Matthews,Kentucky,United States
+441,Leading Bike Distributors,Specialty Bike Shop,Somerset,Kentucky,United States
+486,Convenient Bike Shop,Specialty Bike Shop,Braintree,Massachusetts,United States
+53,Incomparable Bicycle Store,Specialty Bike Shop,Norwood,Massachusetts,United States
+107,Wholesale Bikes,Specialty Bike Shop,Randolph,Massachusetts,United States
+450,Bikes Anyone?,Specialty Bike Shop,Saugus,Massachusetts,United States
+557,Purchase Mart,Warehouse,Wrentham,Massachusetts,United States
+108,Wheelsets Storehouse,Warehouse,Kittery,Maine,United States
+642,Fitness Sport Boutique,Value Added Reseller,Kittery,Maine,United States
+323,Metro Bike Works,Warehouse,Detroit,Michigan,United States
+431,Small Cycle Store,Specialty Bike Shop,Holland,Michigan,United States
+660,Exhilarating Cycles,Warehouse,Howell,Michigan,United States
+287,Handy Bike Services,Warehouse,Madison Heights,Michigan,United States
+395,Online Bike Sellers,Specialty Bike Shop,Midland,Michigan,United States
+468,Blue Bicycle Company,Specialty Bike Shop,Monroe,Michigan,United States
+197,"Fabrikam Inc., West",Value Added Reseller,Novi,Michigan,United States
+180,Full-Service Bike Store,Specialty Bike Shop,Pontiac,Michigan,United States
+643,Friendly Bike Shop,Specialty Bike Shop,Port Huron,Michigan,United States
+504,Historic Bicycle Sales,Specialty Bike Shop,Redford,Michigan,United States
+377,Grand Sport Boutique,Specialty Bike Shop,Saginaw,Michigan,United States
+360,Novelty Bikes,Warehouse,Saginaw,Michigan,United States
+198,Field Trip Inc,Specialty Bike Shop,Southfield,Michigan,United States
+306,Work And Play Association,Value Added Reseller,Southgate,Michigan,United States
+288,Kickstand Sellers,Value Added Reseller,Westland,Michigan,United States
+18,Catalog Store,Warehouse,Zeeland,Michigan,United States
+579,Riders Company,Value Added Reseller,Branch,Minnesota,United States
+274,Active Systems,Specialty Bike Shop,Duluth,Minnesota,United States
+39,Fitness Hotel,Warehouse,Edina,Minnesota,United States
+694,The Accessories Store,Value Added Reseller,Medford,Minnesota,United States
+623,Hardware Components,Warehouse,Minneapolis,Minnesota,United States
+562,Practical Bike Supply Company,Specialty Bike Shop,Woodbury,Minnesota,United States
+598,Black Bicycle Company,Specialty Bike Shop,Branson,Missouri,United States
+364,District Mall,Value Added Reseller,Ferguson,Missouri,United States
+238,A Great Bicycle Company,Specialty Bike Shop,Jefferson City,Missouri,United States
+544,Valley Bicycle Specialists,Warehouse,Kansas City,Missouri,United States
+695,Responsible Bike Dealers,Specialty Bike Shop,Kansas City,Missouri,United States
+670,First Bike Store,Value Added Reseller,Odessa,Missouri,United States
+363,Immense Manufacturing Company,Warehouse,Saint Ann,Missouri,United States
+327,World Of Bikes,Value Added Reseller,Saint Louis,Missouri,United States
+381,Bicycle Lines Distributors,Warehouse,Saint Louis,Missouri,United States
+220,Best O' Bikes,Specialty Bike Shop,Saint Louis,Missouri,United States
+646,Yellow Bicycle Company,Specialty Bike Shop,Saint Louis,Missouri,United States
+423,Bike Rims Company,Warehouse,Biloxi,Mississippi,United States
+566,Ecommerce Bikes,Warehouse,Gulfport,Mississippi,United States
+314,One-Piece Handle Bars,Warehouse,Tupelo,Mississippi,United States
+38,Finer Mart,Specialty Bike Shop,Billings,Montana,United States
+541,Nonskid Tire Company,Warehouse,Great Falls,Montana,United States
+434,Road-Way Mart,Specialty Bike Shop,Missoula,Montana,United States
+700,Underglaze And Finish Company,Value Added Reseller,Charlotte,North Carolina,United States
+63,Metro Bike Mart,Warehouse,Greensboro,North Carolina,United States
+699,Sensational Discount Store,Warehouse,Kannapolis,North Carolina,United States
+627,Exchange Parts Inc.,Value Added Reseller,Raleigh,North Carolina,United States
+207,Lubricant And Grease Suppliers,Specialty Bike Shop,Rocky Mount,North Carolina,United States
+524,Chain And Chain Tool Distributions,Value Added Reseller,Smithfield,North Carolina,United States
+206,New And Used Bicycles,Value Added Reseller,Winston-Salem,North Carolina,United States
+503,Metropolitan Sales And Rental,Value Added Reseller,Hooksett,New Hampshire,United States
+72,Outdoor Equipment Store,Warehouse,Nashua,New Hampshire,United States
+594,Casual Bicycle Store,Value Added Reseller,Nashua,New Hampshire,United States
+618,Seventh Bike Store,Value Added Reseller,Plaistow,New Hampshire,United States
+558,Retail Sales And Service,Value Added Reseller,Tilton,New Hampshire,United States
+221,Bike Dealers Association,Warehouse,Las Cruces,New Mexico,United States
+581,Safe Toys,Warehouse,Rio Rancho,New Mexico,United States
+186,Thrilling Bike Tours,Specialty Bike Shop,Santa Fe,New Mexico,United States
+169,Downtown Hotel,Warehouse,Fernley,Nevada,United States
+438,Remarkable Bike Store,Specialty Bike Shop,Las Vegas,Nevada,United States
+401,Brightwork Company,Specialty Bike Shop,Las Vegas,Nevada,United States
+626,Retail Sporting Goods,Warehouse,Las Vegas,Nevada,United States
+564,Imported And Domestic Cycles,Value Added Reseller,North Las Vegas,Nevada,United States
+650,Permanent Finish Products,Warehouse,Reno,Nevada,United States
+115,Security Racks And Locks Wholesalers,Warehouse,Sparks,Nevada,United States
+413,Margie'S Travel,Specialty Bike Shop,Central Valley,New York,United States
+522,Small Bike Accessories Shop,Specialty Bike Shop,Cheektowaga,New York,United States
+341,Independent Outlet,Specialty Bike Shop,Clay,New York,United States
+324,A Bicycle Association,Value Added Reseller,De Witt,New York,United States
+126,Famous Bike Sales And Service,Specialty Bike Shop,Endicott,New York,United States
+619,Strong Metal Manufacturing,Specialty Bike Shop,Ithaca,New York,United States
+539,Glossy Bikes,Value Added Reseller,Lake George,New York,United States
+54,Larger Cycle Shop,Warehouse,Melville,New York,United States
+233,Fashionable Department Stores,Warehouse,New Hartford,New York,United States
+144,Only Bikes And Accessories,Specialty Bike Shop,New York,New York,United States
+667,Traditional Department Stores,Value Added Reseller,Valley Stream,New York,United States
+540,Guaranteed Sales And Service,Specialty Bike Shop,Burbank,Ohio,United States
+575,Bicycle Outfitters,Warehouse,Cincinnati,Ohio,United States
+359,Mechanical Sports Center,Specialty Bike Shop,Cincinnati,Ohio,United States
+666,Bike Boutique,Warehouse,Columbus,Ohio,United States
+269,Curbside Universe,Warehouse,Euclid,Ohio,United States
+690,Active Cycling,Warehouse,Heath,Ohio,United States
+593,Expert Sports Store,Warehouse,Holland,Ohio,United States
+576,The Bike Mechanics,Value Added Reseller,Mansfield,Ohio,United States
+179,Fourth Bike Store,Value Added Reseller,Mentor,Ohio,United States
+270,Active Transport Inc.,Value Added Reseller,North Randall,Ohio,United States
+89,Riverside Company,Specialty Bike Shop,Oberlin,Ohio,United States
+378,Grown-Up Bike Store,Warehouse,Springdale,Ohio,United States
+452,A Cycle Shop,Value Added Reseller,Albany,Oregon,United States
+595,Cycle Clearance,Specialty Bike Shop,Albany,Oregon,United States
+645,Superior Hardware Distributors,Value Added Reseller,Beaverton,Oregon,United States
+91,Scooters And Bikes Store,Value Added Reseller,Beaverton,Oregon,United States
+604,Sellers Of Cycles,Specialty Bike Shop,Clackamas,Oregon,United States
+181,Family Entertainment Center,Warehouse,Clackamas,Oregon,United States
+693,Stock Parts And Supplies,Warehouse,Hillsboro,Oregon,United States
+163,Sports Merchandise,Warehouse,Klamath Falls,Oregon,United States
+55,Kickstands And Accessories Company,Value Added Reseller,Medford,Oregon,United States
+451,Roadway Bike Emporium,Warehouse,Medford,Oregon,United States
+182,Another Bicycle Company,Value Added Reseller,Milwaukie,Oregon,United States
+56,Latest Accessories Sales,Specialty Bike Shop,Portland,Oregon,United States
+74,Parcel Express Delivery Service,Specialty Bike Shop,Portland,Oregon,United States
+379,Fad Outlet,Value Added Reseller,Portland,Oregon,United States
+487,Bike Experts,Warehouse,Salem,Oregon,United States
+644,Convenient Sales And Service,Warehouse,Springfield,Oregon,United States
+692,Successful Sales Company,Specialty Bike Shop,Tigard,Oregon,United States
+164,Suburban Cycle Shop,Value Added Reseller,Troutdale,Oregon,United States
+162,Tire Company,Specialty Bike Shop,Warwick,Rhode Island,United States
+35,Economic Parts Supply,Specialty Bike Shop,West Kingston,Rhode Island,United States
+521,Mobile Outlet,Value Added Reseller,Woonsocket,Rhode Island,United States
+548,New Bikes Company,Warehouse,Bluffton,South Carolina,United States
+422,Consolidated Sales,Specialty Bike Shop,Gaffney,South Carolina,United States
+386,Touring Services,Specialty Bike Shop,Myrtle Beach,South Carolina,United States
+454,Sleek Bikes,Warehouse,Denby,South Dakota,United States
+22,Travel Systems,Value Added Reseller,North Sioux City,South Dakota,United States
+404,Activity Center,Specialty Bike Shop,Crossville,Tennessee,United States
+333,Resident Cycle Shop,Warehouse,Hixson,Tennessee,United States
+405,Sporting Goods And Bicycle Shop,Warehouse,Kingsport,Tennessee,United States
+45,Every Bike Shop,Warehouse,La Vergne,Tennessee,United States
+602,Ultimate Bike Shop,Warehouse,Maryville,Tennessee,United States
+135,Wonderful Bikes Inc.,Specialty Bike Shop,Memphis,Tennessee,United States
+170,Excellent Riding Supplies,Value Added Reseller,Memphis,Tennessee,United States
+279,Reliable Brake Systems,Value Added Reseller,Memphis,Tennessee,United States
+585,Next-Door Bike Store,Value Added Reseller,Memphis,Tennessee,United States
+134,Budget Bike Company,Value Added Reseller,Millington,Tennessee,United States
+27,Sports Sales And Rental,Warehouse,Millington,Tennessee,United States
+9,Tandem Bicycle Store,Warehouse,Millington,Tennessee,United States
+62,Manufacturers Inc,Specialty Bike Shop,Nashville,Tennessee,United States
+512,Tiny Bike Boutique,Value Added Reseller,Nashville,Tennessee,United States
+350,Mountain Emporium,Specialty Bike Shop,Nashville,Tennessee,United States
+567,Global Plaza,Value Added Reseller,Pigeon Forge,Tennessee,United States
+647,Solid Bike Parts,Warehouse,Arlington,Texas,United States
+4,Modular Cycle Systems,Value Added Reseller,Austin,Texas,United States
+291,Grand Bicycle Stores,Value Added Reseller,Baytown,Texas,United States
+184,Go-Cart And Bike Specialists,Warehouse,Carrollton,Texas,United States
+489,Cash & Carry Bikes,Specialty Bike Shop,Cedar Park,Texas,United States
+436,Sheet Metal Manufacturing,Value Added Reseller,College Station,Texas,United States
+435,Satin Finish Company,Warehouse,Corpus Christi,Texas,United States
+201,Unsurpassed Bikes,Specialty Bike Shop,Dallas,Texas,United States
+165,Third Bike Store,Specialty Bike Shop,Dallas,Texas,United States
+256,Rental Bikes,Specialty Bike Shop,Dallas,Texas,United States
+130,Elite Bikes,Warehouse,Dallas,Texas,United States
+112,Town Industries,Warehouse,Dallas,Texas,United States
+94,Specialty Sports Store,Value Added Reseller,Fort Worth,Texas,United States
+75,Paint Supply,Warehouse,Garland,Texas,United States
+166,Fitness Toy Store,Warehouse,Garland,Texas,United States
+508,Designer Department Stores,Warehouse,Hillsboro,Texas,United States
+292,Grease And Oil Products Company,Specialty Bike Shop,Houston,Texas,United States
+309,The Gear Store,Value Added Reseller,Houston,Texas,United States
+255,Swift Cycles,Value Added Reseller,Houston,Texas,United States
+597,All Seasons Sports Supply,Value Added Reseller,Houston,Texas,United States
+345,Genial Bike Associates,Warehouse,Humble,Texas,United States
+3,Advanced Bike Components,Warehouse,Irving,Texas,United States
+21,Chic Department Stores,Warehouse,Irving,Texas,United States
+399,Big Cycle Mall,Warehouse,Killeen,Texas,United States
+607,Maintenance And Repair For Bicycles,Specialty Bike Shop,La Marque,Texas,United States
+40,Journey Sporting Goods,Value Added Reseller,Laredo,Texas,United States
+490,Extraordinary Bike Works,Warehouse,Mesquite,Texas,United States
+202,Two-Seater Bikes,Warehouse,Plano,Texas,United States
+273,A Typical Bike Shop,Value Added Reseller,Round Rock,Texas,United States
+93,Stationary Bikes And Stands,Warehouse,Round Rock,Texas,United States
+471,Social Activities Club,Specialty Bike Shop,San Antonio,Texas,United States
+580,Rural Sales And Service,Specialty Bike Shop,San Antonio,Texas,United States
+382,Beneficial Exercises And Activities,Value Added Reseller,San Antonio,Texas,United States
+417,Genuine Bike Shop,Warehouse,San Antonio,Texas,United States
+328,Totes & Baskets Company,Value Added Reseller,San Antonio,Texas,United States
+671,"Contoso, Ltd.",Specialty Bike Shop,San Antonio,Texas,United States
+507,Global Sporting Goods,Specialty Bike Shop,Stafford,Texas,United States
+561,Mountain Toy Store,Value Added Reseller,Sugar Land,Texas,United States
+673,Countryside Company,Value Added Reseller,Bountiful,Utah,United States
+698,Western Bike Supplies,Specialty Bike Shop,Cedar City,Utah,United States
+672,Utilitarian Sporting Goods,Warehouse,Ogden,Utah,United States
+293,Fashionable Bikes And Accessories,Warehouse,Park City,Utah,United States
+696,Roadway Supplies,Warehouse,Riverton,Utah,United States
+43,Frugal Bike Shop,Value Added Reseller,Salt Lake City,Utah,United States
+7,Associated Bikes,Value Added Reseller,Salt Lake City,Utah,United States
+601,Transport Bikes,Specialty Bike Shop,Sandy,Utah,United States
+697,Brakes And Gears,Value Added Reseller,Tooele,Utah,United States
+90,Sales And Supply Company,Warehouse,Chantilly,Virginia,United States
+467,The Cycle Store,Value Added Reseller,Falls Church,Virginia,United States
+485,Clamps & Brackets Co.,Value Added Reseller,Leesburg,Virginia,United States
+17,Trusted Catalog Store,Specialty Bike Shop,Newport News,Virginia,United States
+449,Bike Products And Accessories,Value Added Reseller,Virginia Beach,Virginia,United States
+254,Safe Cycles Shop,Warehouse,Bellevue,Washington,United States
+290,Friendly Bike Shop,Warehouse,Bellingham,Washington,United States
+621,Running And Cycling Gear,Value Added Reseller,Bellingham,Washington,United States
+325,All Cycle Shop,Specialty Bike Shop,Bothell,Washington,United States
+19,Center Cycle Shop,Value Added Reseller,Bothell,Washington,United States
+469,Vast Bike Sales And Rental,Warehouse,Chehalis,Washington,United States
+343,Mail-Order Outlet,Value Added Reseller,Ellensburg,Washington,United States
+344,Fifth Bike Store,Specialty Bike Shop,Everett,Washington,United States
+308,Rugged Bikes,Warehouse,Everett,Washington,United States
+596,Coho Sports,Warehouse,Everett,Washington,United States
+669,Racing Bike Outlet,Warehouse,Federal Way,Washington,United States
+109,Travel Sports,Value Added Reseller,Issaquah,Washington,United States
+505,Honest Repair Service,Warehouse,Kelso,Washington,United States
+668,Official Parts Shop,Specialty Bike Shop,Kelso,Washington,United States
+470,Wingtip Toys,Value Added Reseller,Kennewick,Washington,United States
+326,Year-Round Sports,Warehouse,Kent,Washington,United States
+20,Central Discount Store,Specialty Bike Shop,Kent,Washington,United States
+542,Finer Parts Shop,Value Added Reseller,Kirkland,Washington,United States
+433,Thorough Parts And Repair Services,Value Added Reseller,Lacey,Washington,United States
+218,Sure & Reliable Sporting Goods,Value Added Reseller,Longview,Washington,United States
+235,Certified Bicycle Supply,Specialty Bike Shop,Lynnwood,Washington,United States
+73,Outdoor Sports Supply,Value Added Reseller,North Bend,Washington,United States
+200,Basic Bike Company,Value Added Reseller,Port Orchard,Washington,United States
+253,Roving Sports,Specialty Bike Shop,Puyallup,Washington,United States
+37,Two Bike Shops,Value Added Reseller,Puyallup,Washington,United States
+307,Riding Associates,Specialty Bike Shop,Puyallup,Washington,United States
+578,The Bike Shop,Warehouse,Puyallup,Washington,United States
+127,Front Sporting Goods,Warehouse,Redmond,Washington,United States
+145,Raw Materials Inc,Warehouse,Redmond,Washington,United States
+2,Progressive Sports,Specialty Bike Shop,Renton,Washington,United States
+289,Moderately-Priced Bikes Store,Specialty Bike Shop,Renton,Washington,United States
+199,Authorized Bike Sales And Rental,Warehouse,Renton,Washington,United States
+236,Closeout Boutique,Warehouse,Seattle,Washington,United States
+1,A Bike Store,Value Added Reseller,Seattle,Washington,United States
+146,Latest Sports Equipment,Value Added Reseller,Seattle,Washington,United States
+397,Capable Sales And Service,Value Added Reseller,Seattle,Washington,United States
+361,Fitness Supplies,Value Added Reseller,Sequim,Washington,United States
+217,City Manufacturing,Warehouse,Shelton,Washington,United States
+362,Grand Cycle Store,Specialty Bike Shop,Spokane,Washington,United States
+415,Imaginary Toys,Value Added Reseller,Spokane,Washington,United States
+605,Outstanding Cycles,Warehouse,Spokane,Washington,United States
+577,Synthetic Materials Manufacturing,Specialty Bike Shop,Tacoma,Washington,United States
+272,Metro Cycle Shop,Warehouse,Tacoma,Washington,United States
+416,Impromptu Trips,Specialty Bike Shop,Union Gap,Washington,United States
+271,Alternative Vehicles,Specialty Bike Shop,Washougal,Washington,United States
+128,Demand Distributors,Value Added Reseller,Wenatchee,Washington,United States
+92,Sports Commodities,Specialty Bike Shop,Woodinville,Washington,United States
+543,Friendly Neighborhood Bikes,Specialty Bike Shop,Johnson Creek,Wisconsin,United States
+453,Unique Bikes,Specialty Bike Shop,Milwaukee,Wisconsin,United States
+606,Little Bicycle Supply Shop,Value Added Reseller,Mosinee,Wisconsin,United States
+418,Good Bike Shop,Value Added Reseller,Racine,Wisconsin,United States
+506,Great Bikes,Value Added Reseller,Casper,Wyoming,United States
+559,Some Discount Store,Specialty Bike Shop,Cheyenne,Wyoming,United States
+380,First Department Stores,Specialty Bike Shop,Cheyenne,Wyoming,United States
+620,Tires And Tubes,Warehouse,Cheyenne,Wyoming,United States
+560,Major Sport Suppliers,Warehouse,Rock Springs,Wyoming,United States
+105,Volume Bike Sellers,Warehouse,Alexandria,New South Wales,Australia
+658,Mass Market Bikes,Value Added Reseller,Alexandria,New South Wales,Australia
+555,Twin Cycles,Value Added Reseller,Darlinghurst,New South Wales,Australia
+87,Rich Department Store,Warehouse,Lane Cove,New South Wales,Australia
+141,Rental Gallery,Specialty Bike Shop,Lavender Bay,New South Wales,Australia
+15,Budget Toy Store,Warehouse,Lavender Bay,New South Wales,Australia
+33,Global Sports Outlet,Warehouse,Lavender Bay,New South Wales,Australia
+69,Online Bike Catalog,Warehouse,Lavender Bay,New South Wales,Australia
+231,Helmets And Cycles,Value Added Reseller,Lavender Bay,New South Wales,Australia
+501,Jumbo Bikes,Specialty Bike Shop,Malabar,New South Wales,Australia
+321,Second Bike Shop,Value Added Reseller,Matraville,New South Wales,Australia
+339,Major Bicycle Store,Warehouse,Matraville,New South Wales,Australia
+616,Eastward Bike Accessories,Specialty Bike Shop,Matraville,New South Wales,Australia
+393,Gears And Parts Company,Warehouse,Milsons Point,New South Wales,Australia
+682,Popular Bike Lines,Value Added Reseller,Newcastle,New South Wales,Australia
+285,Nearest Bike Store,Value Added Reseller,North Ryde,New South Wales,Australia
+159,Uncompromising Quality Co,Specialty Bike Shop,North Ryde,New South Wales,Australia
+123,First Supplies,Specialty Bike Shop,North Ryde,New South Wales,Australia
+195,Inexpensive Parts Shop,Specialty Bike Shop,North Sydney,New South Wales,Australia
+411,Kids And Adults Cycle Shop,Warehouse,North Sydney,New South Wales,Australia
+303,Seaside Bike Works,Value Added Reseller,North Sydney,New South Wales,Australia
+483,Fitness Bike Accessories,Specialty Bike Shop,Rhodes,New South Wales,Australia
+573,Nationwide Supply,Value Added Reseller,Rhodes,New South Wales,Australia
+537,Preferable Bikes,Specialty Bike Shop,Rhodes,New South Wales,Australia
+634,Sensible Sports,Specialty Bike Shop,Rhodes,New South Wales,Australia
+429,Unusual Bicycle Company,Warehouse,Silverwater,New South Wales,Australia
+447,Cross-Town Parts Shop,Specialty Bike Shop,Springwood,New South Wales,Australia
+465,Expert Cycle Store,Specialty Bike Shop,St. Leonards,New South Wales,Australia
+688,Bike Part Wholesalers,Value Added Reseller,Sydney,New South Wales,Australia
+375,Region Bike Company,Warehouse,East Brisbane,Queensland,Australia
+177,Plastic Products Manufacturers,Specialty Bike Shop,Hawthorne,Queensland,Australia
+51,Ideal Components,Warehouse,Cloverdale,South Australia,Australia
+357,Quality Bike Sales,Warehouse,Findon,South Australia,Australia
+640,Liquidation Sales,Specialty Bike Shop,Perth,South Australia,Australia
+591,Fitness Discount Store,Value Added Reseller,Melbourne,Victoria,Australia
+664,Eastside Cycle Shop,Value Added Reseller,Melbourne,Victoria,Australia
+519,List Price Catalog Company,Specialty Bike Shop,Melbourne,Victoria,Australia
+267,Cycle Parts And Accessories,Value Added Reseller,Melbourne,Victoria,Australia
+249,Helpful Sales And Repair Service,Value Added Reseller,Seaford,Victoria,Australia
+213,Fast Bike Works,Specialty Bike Shop,South Melbourne,Victoria,Australia
+190,Racing Partners,Warehouse,Calgary,Alberta,Canada
+262,General Industries,Specialty Bike Shop,Calgary,Alberta,Canada
+46,Gear-Shift Bikes Limited,Value Added Reseller,Calgary,Alberta,Canada
+136,Wholesale Parts,Warehouse,Calgary,Alberta,Canada
+137,Transportation Options,Value Added Reseller,Calgary,Alberta,Canada
+444,Finer Cycle Shop,Specialty Bike Shop,Calgary,Alberta,Canada
+354,Serious Cycles,Warehouse,Calgary,Alberta,Canada
+370,Acceptable Sales & Service,Value Added Reseller,Calgary,Alberta,Canada
+661,General Department Stores,Value Added Reseller,Calgary,Alberta,Canada
+701,Future Bikes,Warehouse,Calgary,Alberta,Canada
+629,Efficient Cycling,Warehouse,Calgary,Alberta,Canada
+352,Twelfth Bike Store,Value Added Reseller,Edmonton,Alberta,Canada
+496,Top Sports Supply,Warehouse,Edmonton,Alberta,Canada
+10,Rural Cycle Emporium,Value Added Reseller,Burnaby,British Columbia,Canada
+317,Finer Riding Supplies,Warehouse,Burnaby,British Columbia,Canada
+263,Farthest Bike Store,Warehouse,Burnaby,British Columbia,Canada
+588,General Cycle Storehouse,Value Added Reseller,Burnaby,British Columbia,Canada
+66,Neighborhood Store,Warehouse,Burnaby,British Columbia,Canada
+172,Certified Sports Supply,Warehouse,Richmond,British Columbia,Canada
+408,Odometers And Accessories Company,Warehouse,Richmond,British Columbia,Canada
+497,Valley Toy Store,Value Added Reseller,Richmond,British Columbia,Canada
+478,Major Cycling,Warehouse,Richmond,British Columbia,Canada
+462,General Riding Supplies,Specialty Bike Shop,Richmond,British Columbia,Canada
+514,Retail Mall,Warehouse,Richmond,British Columbia,Canada
+371,Custom Sales And Service,Specialty Bike Shop,Surrey,British Columbia,Canada
+389,Sixth Bike Store,Specialty Bike Shop,Surrey,British Columbia,Canada
+174,Toy Manufacturing Inc,Specialty Bike Shop,Surrey,British Columbia,Canada
+173,Sundry Sporting Goods,Value Added Reseller,Vancouver,British Columbia,Canada
+154,Camping And Sports Store,Warehouse,Vancouver,British Columbia,Canada
+138,South Bike Company,Specialty Bike Shop,Vancouver,British Columbia,Canada
+82,Refined Department Stores,Value Added Reseller,Vancouver,British Columbia,Canada
+388,Road Way Sales And Rental,Value Added Reseller,Vancouver,British Columbia,Canada
+318,First-Rate Outlet,Value Added Reseller,Victoria,British Columbia,Canada
+298,City Cycling,Specialty Bike Shop,Winnipeg,Manitoba,Canada
+353,Two-Wheeled Transit Company,Specialty Bike Shop,Winnipeg,Manitoba,Canada
+299,Citywide Service And Repair,Warehouse,Saint John,Brunswick,Canada
+654,Online Bike Warehouse,Value Added Reseller,Aurora,Ontario,Canada
+280,Standard Bikes,Specialty Bike Shop,Barrie,Ontario,Canada
+426,Custom Accessories Company,Warehouse,Brampton,Ontario,Canada
+29,Cross-Country Riding Supplies,Specialty Bike Shop,Chalk Riber,Ontario,Canada
+84,Rewarding Activities Company,Warehouse,Etobicoke,Ontario,Canada
+425,Bikes For Kids And Adults,Specialty Bike Shop,Etobicoke,Ontario,Canada
+532,The Showroom,Warehouse,Kanata,Ontario,Canada
+516,Seats And Saddles Company,Specialty Bike Shop,Kingston,Ontario,Canada
+372,Top Bike Market,Warehouse,Kingston,Ontario,Canada
+100,Up-To-Date Sports,Value Added Reseller,Markham,Ontario,Canada
+335,Scratch-Resistant Finishes Company,Specialty Bike Shop,Mississauga,Ontario,Canada
+316,Low Price Cycles,Specialty Bike Shop,Mississauga,Ontario,Canada
+534,Recommended Bicycles,Specialty Bike Shop,Mississauga,Ontario,Canada
+461,Active Life Toys,Value Added Reseller,Mississauga,Ontario,Canada
+480,General Bike Corporation,Specialty Bike Shop,Mississauga,Ontario,Canada
+498,Quick Delivery Service,Specialty Bike Shop,Mississauga,Ontario,Canada
+569,Designated Distributors,Warehouse,Nepean,Ontario,Canada
+515,Rural Bicycle Supply,Value Added Reseller,North York,Ontario,Canada
+228,Home Town Bike Store,Value Added Reseller,Ottawa,Ontario,Canada
+83,Requisite Part Supply,Specialty Bike Shop,Ottawa,Ontario,Canada
+526,Finer Sales And Service,Warehouse,Ottawa,Ontario,Canada
+677,Tire Exchange,Specialty Bike Shop,Ottawa,Ontario,Canada
+587,Our Sporting Goods Store,Warehouse,Ottawa,Ontario,Canada
+300,Nice Bikes,Value Added Reseller,Ottawa,Ontario,Canada
+424,Bikes For Two,Value Added Reseller,Richmond Hill,Ontario,Canada
+443,Courteous Bicycle Specialists,Value Added Reseller,Richmond Hill,Ontario,Canada
+209,Purple Bicycle Company,Value Added Reseller,Scarborough,Ontario,Canada
+653,Mercantile Outlet,Warehouse,Toronto,Ontario,Canada
+630,Eastside Parts Shop,Value Added Reseller,Toronto,Ontario,Canada
+631,Tandem Sales And Service,Specialty Bike Shop,Toronto,Ontario,Canada
+637,Reliable Retail Center,Specialty Bike Shop,Toronto,Ontario,Canada
+678,Vigorous Exercise Company,Warehouse,Toronto,Ontario,Canada
+210,Gasless Cycle Shop,Specialty Bike Shop,Toronto,Ontario,Canada
+227,"Health Spa, Limited",Warehouse,Toronto,Ontario,Canada
+264,Fasteners & Bolts Outlet,Value Added Reseller,Toronto,Ontario,Canada
+442,Original Bicycle Supply Company,Warehouse,Toronto,Ontario,Canada
+568,Economy Center,Specialty Bike Shop,Toronto,Ontario,Canada
+551,Vinyl And Plastic Goods Corporation,Warehouse,Toronto,Ontario,Canada
+552,Consolidated Messenger,Value Added Reseller,Toronto,Ontario,Canada
+28,Commuter Bicycle Store,Value Added Reseller,Toronto,Ontario,Canada
+64,Metal Clearing House,Value Added Reseller,Toronto,Ontario,Canada
+47,Greater Bike Store,Specialty Bike Shop,Toronto,Ontario,Canada
+11,Sharp Bikes,Specialty Bike Shop,Toronto,Ontario,Canada
+12,Bikes And Motorbikes,Warehouse,Toronto,Ontario,Canada
+101,Urban Sports Emporium,Specialty Bike Shop,Toronto,Ontario,Canada
+102,National Manufacturing,Warehouse,Toronto,Ontario,Canada
+118,Rapid Bikes,Warehouse,Toronto,Ontario,Canada
+208,Professional Cyclists,Warehouse,Toronto,Ontario,Canada
+191,Non-Slip Pedal Company,Value Added Reseller,Toronto,Ontario,Canada
+192,Nuts And Bolts Mfg.,Specialty Bike Shop,Toronto,Ontario,Canada
+155,Corner Bicycle Supply,Value Added Reseller,Toronto,Ontario,Canada
+613,Famous Bike Shop,Specialty Bike Shop,Vancouver,Ontario,Canada
+390,Plastic Parts Company,Warehouse,Waterloo,Ontario,Canada
+334,Retreat Inn,Value Added Reseller,Waterloo,Ontario,Canada
+65,Metro Manufacturing,Specialty Bike Shop,Weston,Ontario,Canada
+460,Price-Cutter Discount Bikes,Warehouse,Brossard,Quebec,Canada
+245,Leather Seat Factory,Warehouse,Brossard,Quebec,Canada
+655,Operational Manufacturing,Value Added Reseller,Dorval,Quebec,Canada
+226,Leisure Activities,Specialty Bike Shop,Hull,Quebec,Canada
+679,Superb Sales And Repair,Value Added Reseller,Montreal,Quebec,Canada
+120,Machines & Cycles Store,Specialty Bike Shop,Montreal,Quebec,Canada
+570,Family'S Favorite Bike Shop,Value Added Reseller,Montreal,Quebec,Canada
+407,Workout Emporium,Specialty Bike Shop,Montreal,Quebec,Canada
+48,Grand Industries,Warehouse,Montreal,Quebec,Canada
+246,Large Bike Shop,Value Added Reseller,Montreal,Quebec,Canada
+281,Petroleum Products Distributors,Warehouse,Montreal,Quebec,Canada
+156,Metal Processing Company,Specialty Bike Shop,Montreal,Quebec,Canada
+586,One Bike Company,Specialty Bike Shop,Montreal,Quebec,Canada
+685,Family Cycle Store,Value Added Reseller,Montreal,Quebec,Canada
+244,Retail Discount Store,Specialty Bike Shop,Montreal,Quebec,Canada
+336,Primary Bike Distributors,Warehouse,Montreal,Quebec,Canada
+406,The Commissary,Value Added Reseller,Outremont,Quebec,Canada
+119,Red Bicycle Company,Value Added Reseller,Pnot-Rouge,Quebec,Canada
+30,Cycle Merchants,Warehouse,Quebec,Quebec,Canada
+550,Remote Bicycle Specialists,Specialty Bike Shop,Quebec,Quebec,Canada
+282,Quick Parts And Service,Value Added Reseller,Sainte-Foy,Quebec,Canada
+533,Tenth Bike Store,Value Added Reseller,Sillery,Quebec,Canada
+479,General Supplies,Value Added Reseller,Ville De'Anjou,Quebec,Canada
+50,Hometown Riding Supplies,Specialty Bike Shop,Berlin,Brandenburg,Germany
+482,"Fabrikam Inc., East",Value Added Reseller,Eilenburg,Brandenburg,Germany
+633,Rustic Bike Store,Value Added Reseller,Augsburg,Bayern,Germany
+639,Producer Goods Clearinghouse,Value Added Reseller,Frankfurt,Bayern,Germany
+266,Excellent Bikes,Warehouse,Grevenbroich,Bayern,Germany
+230,Global Bike Retailers,Warehouse,Bad Soden,Hessen,Germany
+122,Off-Price Bike Center,Value Added Reseller,Berlin,Hessen,Germany
+518,Regional Cycle Shop,Value Added Reseller,Berlin,Hessen,Germany
+500,Irregulars Outlet,Value Added Reseller,Dresden,Hessen,Germany
+104,Very Best Sports Supply,Specialty Bike Shop,Duesseldorf,Hessen,Germany
+356,Speedometer Sales,Specialty Bike Shop,Hamburg,Hessen,Germany
+212,Enterprise Center,Value Added Reseller,München,Hessen,Germany
+374,Major Equipment Co,Specialty Bike Shop,Salzgitter,Hessen,Germany
+657,Links Works,Warehouse,Ascheim,Hamburg,Germany
+663,Capital Riding Supplies,Warehouse,Augsburg,Hamburg,Germany
+446,Fitness Toys,Value Added Reseller,Berlin,Hamburg,Germany
+140,Teen Discount Store,Value Added Reseller,Bonn,Hamburg,Germany
+86,Bicycle Exporters,Specialty Bike Shop,Essen,Hamburg,Germany
+320,Amalgamated Parts Shop,Warehouse,Frankfurt Am Main,Hamburg,Germany
+392,Primary Cycle Shop,Specialty Bike Shop,Hamburg,Hamburg,Germany
+68,North Bike Company,Specialty Bike Shop,Muehlheim,Hamburg,Germany
+194,Mechanical Brake Manufacturers,Value Added Reseller,München,Hamburg,Germany
+554,Top Of The Line Bikes,Warehouse,Paderborn,Hamburg,Germany
+284,Nearby Bike Mall,Warehouse,Berlin,Nordrhein-Westfalen,Germany
+158,Rural Sporting Goods,Value Added Reseller,Bonn,Nordrhein-Westfalen,Germany
+572,Versatile Sporting Goods Company,Warehouse,Braunschweig,Nordrhein-Westfalen,Germany
+428,West Wind Distributors,Specialty Bike Shop,Hannover,Nordrhein-Westfalen,Germany
+615,Fast Services,Value Added Reseller,Leipzig,Nordrhein-Westfalen,Germany
+687,Functional Store South,Warehouse,München,Nordrhein-Westfalen,Germany
+536,Next Door Cycles,Value Added Reseller,Berlin,Saarland,Germany
+14,Bicycle Warehouse Inc.,Specialty Bike Shop,Frankfurt Am Main,Saarland,Germany
+410,Pedaling Components,Specialty Bike Shop,Kiel,Saarland,Germany
+176,Rodeway Bike Store,Value Added Reseller,Münster,Saarland,Germany
+302,Best Cycle Store,Warehouse,Offenbach,Saarland,Germany
+590,Lustrous Paints And Components,Warehouse,Poing,Saarland,Germany
+464,Educational Services,Value Added Reseller,Saarbrücken,Saarland,Germany
+338,Rambling Tours,Specialty Bike Shop,Stuttgart,Saarland,Germany
+32,Precision Gears Inc.,Specialty Bike Shop,Stuttgart,Saarland,Germany
+248,Good Bicycle Store,Warehouse,Sulzbach Taunus,Saarland,Germany
+681,Showcase For Cycles,Warehouse,Sulzbach Taunus,Saarland,Germany
+193,Perfect Toys,Warehouse,Colomiers,Garonne (Haute),France
+409,Outdoor Toy Store,Value Added Reseller,Aujan Mournede,Gers,France
+481,Getaway Inn,Warehouse,Saint Ouen,Loir et Cher,France
+121,Metro Sports Equipment,Warehouse,Saint Ouen,Loir et Cher,France
+175,Registered Cycle Store,Warehouse,Orleans,Loiret,France
+499,Racing Sales And Service,Warehouse,Orleans,Loiret,France
+662,Finer Sporting Goods,Specialty Bike Shop,Croix,Nord,France
+49,Neighborhood Bicycle Storehouse,Value Added Reseller,Roncq,Nord,France
+571,Community Department Stores,Specialty Bike Shop,Boulogne-Sur-Mer,Pas de Calais,France
+355,Spare Parts Co.,Value Added Reseller,Paris,Seine (Paris),France
+391,Pretty Bikes And Toys,Value Added Reseller,Paris,Seine (Paris),France
+656,Impervious Paint Company,Specialty Bike Shop,Paris,Seine (Paris),France
+553,Accessories Network,Specialty Bike Shop,Paris,Seine (Paris),France
+589,Hiatus Bike Tours,Specialty Bike Shop,Paris,Seine (Paris),France
+427,Atypical Bike Company,Value Added Reseller,Paris,Seine (Paris),France
+638,Metropolitan Equipment,Warehouse,Paris,Seine (Paris),France
+31,Wheels Inc.,Value Added Reseller,Paris,Seine (Paris),France
+265,Full Sports Supply,Specialty Bike Shop,Paris,Seine (Paris),France
+614,Favorite Toy Distributor,Warehouse,Paris,Seine (Paris),France
+157,Ace Bicycle Supply,Warehouse,Paris,Seine (Paris),France
+301,Rural Mountain Bike Mart,Specialty Bike Shop,Paris,Seine (Paris),France
+211,Sports Products Store,Warehouse,Lieusaint,Seine et Marne,France
+283,Racing Supply Distributors,Specialty Bike Shop,Roissy En Brie,Seine et Marne,France
+13,Country Parts Shop,Value Added Reseller,Les Ulis,Essonne,France
+373,Township Inn,Value Added Reseller,Les Ulis,Essonne,France
+517,Racing Store,Warehouse,Les Ulis,Essonne,France
+463,Brand New Bikes,Warehouse,Les Ulis,Essonne,France
+632,Ultimate Bicycle Company,Warehouse,Morangis,Essonne,France
+67,Self-Contained Cycle Parts Company,Value Added Reseller,Verrieres Le Buisson,Essonne,France
+139,Steel Inc.,Warehouse,Colombes,Hauts de Seine,France
+229,Instant Cycle Store,Specialty Bike Shop,Colombes,Hauts de Seine,France
+85,Roadway Bicycle Supply,Value Added Reseller,Courbevoie,Hauts de Seine,France
+337,Recreation Toy Store,Value Added Reseller,Paris La Defense,Hauts de Seine,France
+680,Racing Tours,Specialty Bike Shop,Sèvres,Hauts de Seine,France
+686,Finished Parts Shop,Specialty Bike Shop,Suresnes,Hauts de Seine,France
+319,Cycles Sales And Repair,Specialty Bike Shop,Bobigny,Seine Saint Denis,France
+445,First Center,Warehouse,Pantin,Seine Saint Denis,France
+103,The Bike Outlet,Value Added Reseller,Pantin,Seine Saint Denis,France
+247,Major Amusement Company,Specialty Bike Shop,Orly,Val de Marne,France
+535,Spa And Exercise Outfitters,Warehouse,Cergy,Val d'Oise,France
+304,Essential Bike Works,Specialty Bike Shop,Abingdon,England,United Kingdom
+232,Exceptional Cycle Services,Specialty Bike Shop,Basingstoke Hants,England,United Kingdom
+484,Downhill Bicycle Specialists,Warehouse,Berks,England,United Kingdom
+376,Commerce Bicycle Specialists,Value Added Reseller,Berkshire,England,United Kingdom
+412,Leisure Clearing House,Value Added Reseller,Birmingham,England,United Kingdom
+430,Uttermost Bike Shop,Value Added Reseller,Bracknell,England,United Kingdom
+635,Sports Store,Warehouse,Cambridge,England,United Kingdom
+52,Instruments And Parts Company,Value Added Reseller,Gloucestershire,England,United Kingdom
+268,Channel Outlet,Specialty Bike Shop,High Wycombe,England,United Kingdom
+214,Exclusive Bicycle Mart,Warehouse,Lancaster,England,United Kingdom
+70,Outdoor Aerobic Systems Company,Value Added Reseller,London,England,United Kingdom
+538,Prosperous Tours,Warehouse,London,England,United Kingdom
+574,Area Sheet Metal Supply,Specialty Bike Shop,London,England,United Kingdom
+16,Bulk Discount Store,Value Added Reseller,London,England,United Kingdom
+659,Shipping Specialists,Specialty Bike Shop,London,England,United Kingdom
+689,Consumer Equipment,Specialty Bike Shop,London,England,United Kingdom
+250,Express Bike Services,Specialty Bike Shop,London,England,United Kingdom
+592,Cycling Goods,Specialty Bike Shop,London,England,United Kingdom
+641,Extended Tours,Warehouse,London,England,United Kingdom
+520,Metro Metals Co.,Warehouse,London,England,United Kingdom
+502,Metropolitan Bicycle Supply,Warehouse,London,England,United Kingdom
+665,Authentic Sales And Service,Specialty Bike Shop,London,England,United Kingdom
+556,Variety Cycling,Specialty Bike Shop,London,England,United Kingdom
+683,Oils And Fluids Warehouse,Specialty Bike Shop,London,England,United Kingdom
+466,Central Bicycle Specialists,Warehouse,Maidenhead,England,United Kingdom
+322,Tachometers And Accessories,Specialty Bike Shop,Milton Keynes,England,United Kingdom
+196,Exhibition Showroom,Warehouse,Milton Keynes,England,United Kingdom
+88,Closest Bicycle Store,Value Added Reseller,Milton Keynes,England,United Kingdom
+617,Tubeless Tire Company,Warehouse,Oxford,England,United Kingdom
+160,Vigorous Sports Store,Warehouse,Oxon,England,United Kingdom
+286,Number One Bike Co.,Specialty Bike Shop,Reading,England,United Kingdom
+142,Riding Cycles,Warehouse,Liverpool,England,United Kingdom
+124,Nearby Sporting Goods,Warehouse,W. York,England,United Kingdom
+178,Rampart Amusement Company,Warehouse,W. York,England,United Kingdom
+34,Cycles Wholesaler & Mfg.,Value Added Reseller,Warrington,England,United Kingdom
+340,Nearby Cycle Shop,Value Added Reseller,West Sussex,England,United Kingdom
+106,West Side Mart,Value Added Reseller,Wokingham,England,United Kingdom
+448,Action Bicycle Specialists,Warehouse,Woolston,England,United Kingdom
+358,Mail Market,Value Added Reseller,York,England,United Kingdom
+394,Little Sports Center,Value Added Reseller,York,England,United Kingdom

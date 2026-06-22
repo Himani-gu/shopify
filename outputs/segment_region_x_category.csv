@@ -1,0 +1,41 @@
+region_name,category,revenue
+Australia,Bikes,1168981.11
+Australia,Components,169210.19
+Australia,Clothing,34073.18
+Australia,Accessories,18760.37
+Canada,Bikes,11271186.19
+Canada,Components,2131426.94
+Canada,Clothing,362307.87
+Canada,Accessories,110711.96
+Central,Bikes,6536258.98
+Central,Components,905303.43
+Central,Clothing,147895.83
+Central,Accessories,43928.62
+France,Bikes,3506213.6
+France,Components,849137.01
+France,Clothing,125774.9
+France,Accessories,46714.18
+Germany,Bikes,1462632.57
+Germany,Components,312281.22
+Germany,Clothing,68853.06
+Germany,Accessories,33976.54
+Northeast,Bikes,5498188.77
+Northeast,Components,1011592.89
+Northeast,Clothing,157957.0
+Northeast,Accessories,47615.73
+Northwest,Bikes,10073074.75
+Northwest,Components,1686187.03
+Northwest,Clothing,194352.48
+Northwest,Accessories,51208.19
+Southeast,Bikes,6505513.94
+Southeast,Components,930851.35
+Southeast,Clothing,160058.11
+Southeast,Accessories,42183.15
+Southwest,Bikes,14961309.42
+Southwest,Components,2583552.77
+Southwest,Clothing,351500.56
+Southwest,Accessories,104753.35
+United Kingdom,Bikes,3085673.83
+United Kingdom,Components,646832.07
+United Kingdom,Clothing,111283.06
+United Kingdom,Accessories,39254.0

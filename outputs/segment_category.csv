@@ -1,0 +1,34 @@
+category,subcategory,total_revenue,total_profit,profit_margin_pct,units_sold,unique_customers,revenue_share_pct
+Bikes,Road Bikes,28681899.48,-1051786.18,-3.67,38178.0,242,36.99
+Bikes,Mountain Bikes,25880152.86,1561197.86,6.03,22454.0,211,33.37
+Bikes,Touring Bikes,9506980.82,-945090.58,-9.94,11248.0,132,12.26
+Components,Mountain Frames,4493533.42,469339.43,10.44,11007.0,185,5.79
+Components,Road Frames,3746817.13,140667.86,3.75,11505.0,221,4.83
+Components,Touring Frames,1463309.26,-3142.57,-0.21,3352.0,103,1.89
+Components,Wheels,679676.89,175946.35,25.89,5263.0,271,0.88
+Clothing,Jerseys,549933.91,-118087.98,-21.47,18291.0,334,0.71
+Clothing,Shorts,325297.09,109496.77,33.66,8369.0,207,0.42
+Accessories,Helmets,250209.76,84511.24,33.78,12515.0,296,0.32
+Clothing,Gloves,207372.85,63477.54,30.61,11292.0,284,0.27
+Clothing,Vests,207249.38,73802.72,35.61,5619.0,185,0.27
+Clothing,Tights,203041.16,61923.27,30.5,4562.0,157,0.26
+Components,Cranksets,183123.06,47452.68,25.91,984.0,86,0.24
+Accessories,Bike Racks,182007.6,65992.8,36.26,2585.0,150,0.23
+Clothing,Bib-Shorts,167171.79,51689.73,30.92,3111.0,172,0.22
+Components,Handlebars,161990.56,42022.24,25.94,3772.0,313,0.21
+Components,Pedals,133777.98,34723.25,25.96,3564.0,312,0.17
+Components,Forks,77966.8,20222.18,25.94,634.0,38,0.1
+Components,Derailleurs,61629.35,15973.84,25.92,1025.0,92,0.08
+Components,Headsets,61134.4,15640.5,25.58,1009.0,42,0.08
+Components,Brakes,60183.15,15592.24,25.91,943.0,103,0.08
+Accessories,Hydration Packs,59218.45,21787.5,36.79,1820.0,141,0.08
+Components,Saddles,50424.97,13081.4,25.94,1937.0,240,0.07
+Components,Bottom Brackets,44444.93,11553.88,26.0,787.0,86,0.06
+Clothing,Caps,30658.42,-5106.36,-16.66,5903.0,271,0.04
+Clothing,Socks,23331.45,8661.59,37.12,4351.0,186,0.03
+Accessories,Locks,16249.0,5049.29,31.07,1086.0,93,0.02
+Accessories,Pumps,13524.3,4206.34,31.1,1130.0,90,0.02
+Accessories,Cleaners,10179.94,3718.95,36.53,2173.0,165,0.01
+Components,Chains,8363.0,2162.15,25.85,690.0,93,0.01
+Accessories,Bottles And Cages,6885.93,2503.58,36.36,2348.0,167,0.01
+Accessories,Tires And Tubes,831.11,311.06,37.43,607.0,80,0.0

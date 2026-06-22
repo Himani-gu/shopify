@@ -1,0 +1,633 @@
+revenue_rank,customer_id,customer_name,region,segment,total_revenue,revenue_share_pct,cumulative_revenue,cumulative_pct,total_orders,avg_order_value,pareto_band
+1,697,Brakes And Gears,United States,Value Added Reseller,882273.53,1.14,882273.53,1.14,12,2960.65,Top 80%
+2,328,Totes & Baskets Company,United States,Value Added Reseller,817125.03,1.05,1699398.56,2.19,12,1874.14,Top 80%
+3,514,Retail Mall,Canada,Warehouse,803767.27,1.04,2503165.83,3.23,12,1782.19,Top 80%
+4,678,Vigorous Exercise Company,Canada,Warehouse,794909.73,1.03,3298075.56,4.25,11,1694.9,Top 80%
+5,170,Excellent Riding Supplies,United States,Value Added Reseller,773398.22,1.0,4071473.7800000003,5.25,11,2288.16,Top 80%
+6,433,Thorough Parts And Repair Services,United States,Value Added Reseller,741360.41,0.96,4812834.19,6.21,12,2070.84,Top 80%
+7,155,Corner Bicycle Supply,Canada,Value Added Reseller,736865.3,0.95,5549699.49,7.16,11,1837.57,Top 80%
+8,227,"Health Spa, Limited",Canada,Warehouse,735233.1,0.95,6284932.59,8.1,12,2088.73,Top 80%
+9,166,Fitness Toy Store,United States,Warehouse,731634.54,0.94,7016567.13,9.05,12,2177.48,Top 80%
+10,146,Latest Sports Equipment,United States,Value Added Reseller,725937.34,0.94,7742504.47,9.98,12,2186.56,Top 80%
+11,670,First Bike Store,United States,Value Added Reseller,712293.63,0.92,8454798.1,10.9,12,2282.99,Top 80%
+12,506,Great Bikes,United States,Value Added Reseller,704315.32,0.91,9159113.42,11.81,12,2428.67,Top 80%
+13,167,Farthermost Bike Shop,United States,Value Added Reseller,694143.12,0.9,9853256.54,12.71,12,1644.89,Top 80%
+14,546,Field Trip Store,United States,Value Added Reseller,676732.67,0.87,10529989.21,13.58,8,1895.61,Top 80%
+15,72,Outdoor Equipment Store,United States,Warehouse,665712.4,0.86,11195701.61,14.44,7,2182.66,Top 80%
+16,638,Metropolitan Equipment,France,Warehouse,648107.78,0.84,11843809.39,15.27,8,1600.27,Top 80%
+17,309,The Gear Store,United States,Value Added Reseller,619466.12,0.8,12463275.51,16.07,12,1576.25,Top 80%
+18,436,Sheet Metal Manufacturing,United States,Value Added Reseller,617857.2,0.8,13081132.71,16.87,8,1665.38,Top 80%
+19,496,Top Sports Supply,Canada,Warehouse,603312.16,0.78,13684444.870000001,17.65,8,1368.05,Top 80%
+20,608,Golf And Cycle Store,United States,Warehouse,603125.5,0.78,14287570.370000001,18.42,8,2913.65,Top 80%
+21,4,Modular Cycle Systems,United States,Value Added Reseller,586741.66,0.76,14874312.03,19.18,8,2496.77,Top 80%
+22,175,Registered Cycle Store,France,Warehouse,582454.82,0.75,15456766.85,19.93,8,1323.76,Top 80%
+23,650,Permanent Finish Products,United States,Warehouse,578492.79,0.75,16035259.64,20.68,12,1479.52,Top 80%
+24,24,Eastside Department Store,United States,Warehouse,577415.48,0.74,16612675.120000001,21.42,7,1612.89,Top 80%
+25,79,Reasonable Bicycle Sales,United States,Value Added Reseller,572556.59,0.74,17185231.71,22.16,8,1740.29,Top 80%
+26,599,Westside Plaza,United States,Warehouse,553925.65,0.71,17739157.36,22.87,4,2728.7,Top 80%
+27,236,Closeout Boutique,United States,Warehouse,537525.52,0.69,18276682.88,23.57,8,1433.4,Top 80%
+28,290,Friendly Bike Shop,United States,Warehouse,535373.67,0.69,18812056.55,24.26,8,1865.41,Top 80%
+29,54,Larger Cycle Shop,United States,Warehouse,504532.33,0.65,19316588.88,24.91,11,1138.9,Top 80%
+30,312,Resale Services,United States,Value Added Reseller,492797.05,0.64,19809385.93,25.54,12,1317.64,Top 80%
+31,579,Riders Company,United States,Value Added Reseller,489276.91,0.63,20298662.84,26.18,11,1397.93,Top 80%
+32,84,Rewarding Activities Company,Canada,Warehouse,483321.95,0.62,20781984.79,26.8,12,1108.54,Top 80%
+33,502,Metropolitan Bicycle Supply,United Kingdom,Warehouse,482282.01,0.62,21264266.8,27.42,7,1876.58,Top 80%
+34,343,Mail-Order Outlet,United States,Value Added Reseller,478258.69,0.62,21742525.49,28.04,8,1672.23,Top 80%
+35,245,Leather Seat Factory,Canada,Warehouse,473675.68,0.61,22216201.17,28.65,8,1965.46,Top 80%
+36,533,Tenth Bike Store,Canada,Value Added Reseller,458654.21,0.59,22674855.38,29.24,8,1626.43,Top 80%
+37,97,Mountain Bike Center,United States,Value Added Reseller,456879.99,0.59,23131735.37,29.83,8,1791.69,Top 80%
+38,566,Ecommerce Bikes,United States,Warehouse,446507.57,0.58,23578242.94,30.4,8,1697.75,Top 80%
+39,85,Roadway Bicycle Supply,France,Value Added Reseller,443704.07,0.57,24021947.01,30.98,4,3060.03,Top 80%
+40,278,Tread Industries,United States,Warehouse,433874.66,0.56,24455821.67,31.54,4,5356.48,Top 80%
+41,221,Bike Dealers Association,United States,Warehouse,430609.03,0.56,24886430.7,32.09,12,996.78,Top 80%
+42,385,Sturdy Toys,United States,Value Added Reseller,428125.63,0.55,25314556.330000002,32.64,12,2218.27,Top 80%
+43,676,Better Bike Shop,United States,Value Added Reseller,422901.03,0.55,25737457.36,33.19,12,1178.0,Top 80%
+44,442,Original Bicycle Supply Company,Canada,Warehouse,416749.6,0.54,26154206.96,33.73,12,1076.87,Top 80%
+45,78,Preferred Bikes,United States,Warehouse,414076.4,0.53,26568283.36,34.26,8,1262.43,Top 80%
+46,623,Hardware Components,United States,Warehouse,409059.96,0.53,26977343.32,34.79,4,4812.47,Top 80%
+47,618,Seventh Bike Store,United States,Value Added Reseller,402407.84,0.52,27379751.16,35.31,12,1058.97,Top 80%
+48,193,Perfect Toys,France,Warehouse,401722.31,0.52,27781473.47,35.82,4,3266.04,Top 80%
+49,16,Bulk Discount Store,United Kingdom,Value Added Reseller,400253.07,0.52,28181726.54,36.34,7,1384.96,Top 80%
+50,475,Real Sporting Goods,United States,Warehouse,399826.38,0.52,28581552.92,36.86,8,956.52,Top 80%
+51,293,Fashionable Bikes And Accessories,United States,Warehouse,397472.02,0.51,28979024.94,37.37,11,1713.24,Top 80%
+52,206,New And Used Bicycles,United States,Value Added Reseller,395623.4,0.51,29374648.34,37.88,12,1301.39,Top 80%
+53,684,Lease-A-Bike Shop,United States,Warehouse,394899.3,0.51,29769547.64,38.39,12,1410.35,Top 80%
+54,648,Small Bike Shop,United States,Value Added Reseller,394162.83,0.51,30163710.47,38.9,11,1808.09,Top 80%
+55,119,Red Bicycle Company,Canada,Value Added Reseller,392706.78,0.51,30556417.25,39.4,12,1785.03,Top 80%
+56,218,Sure & Reliable Sporting Goods,United States,Value Added Reseller,387188.33,0.5,30943605.580000002,39.9,8,1698.19,Top 80%
+57,90,Sales And Supply Company,United States,Warehouse,382311.44,0.49,31325917.02,40.4,7,1385.19,Top 80%
+58,491,Area Bike Accessories,United States,Value Added Reseller,380589.5,0.49,31706506.52,40.89,12,1394.1,Top 80%
+59,254,Safe Cycles Shop,United States,Warehouse,378353.15,0.49,32084859.67,41.37,7,1157.04,Top 80%
+60,18,Catalog Store,United States,Warehouse,373702.4,0.48,32458562.07,41.86,12,1465.5,Top 80%
+61,75,Paint Supply,United States,Warehouse,368568.44,0.48,32827130.51,42.33,11,1074.54,Top 80%
+62,205,Rally Master Company Inc,United States,Warehouse,365530.07,0.47,33192660.580000002,42.8,4,3323.0,Top 80%
+63,418,Good Bike Shop,United States,Value Added Reseller,364410.47,0.47,33557071.05,43.27,11,1210.67,Top 80%
+64,118,Rapid Bikes,Canada,Warehouse,363878.39,0.47,33920949.44,43.74,11,923.55,Top 80%
+65,173,Sundry Sporting Goods,Canada,Value Added Reseller,362336.24,0.47,34283285.68,44.21,11,1228.26,Top 80%
+66,10,Rural Cycle Emporium,Canada,Value Added Reseller,361514.45,0.47,34644800.13,44.67,7,1665.97,Top 80%
+67,499,Racing Sales And Service,France,Warehouse,359530.11,0.46,35004330.24,45.14,7,2140.06,Top 80%
+68,594,Casual Bicycle Store,United States,Value Added Reseller,357950.79,0.46,35362281.03,45.6,8,1361.03,Top 80%
+69,234,Eastside Sporting Goods,United States,Value Added Reseller,357938.73,0.46,35720219.76,46.06,4,1845.04,Top 80%
+70,538,Prosperous Tours,United Kingdom,Warehouse,356804.25,0.46,36077024.01,46.52,8,966.95,Top 80%
+71,239,Bicycle Merchandise Warehouse,United States,Warehouse,356800.08,0.46,36433824.09,46.98,4,1629.22,Top 80%
+72,490,Extraordinary Bike Works,United States,Warehouse,351590.54,0.45,36785414.63,47.44,7,1477.27,Top 80%
+73,230,Global Bike Retailers,Germany,Warehouse,343435.41,0.44,37128850.04,47.88,4,1752.22,Top 80%
+74,187,Trailblazing Sports,United States,Warehouse,342469.84,0.44,37471319.88,48.32,11,1380.93,Top 80%
+75,258,Quantity Discounts,United States,Value Added Reseller,338938.16,0.44,37810258.04,48.76,8,1480.08,Top 80%
+76,660,Exhilarating Cycles,United States,Warehouse,337856.68,0.44,38148114.72,49.19,8,905.78,Top 80%
+77,3,Advanced Bike Components,United States,Warehouse,336451.79,0.43,38484566.51,49.63,11,937.19,Top 80%
+78,81,Rally Day Mall,United States,Warehouse,336412.88,0.43,38820979.39,50.06,8,939.7,Top 80%
+79,299,Citywide Service And Repair,Canada,Warehouse,325978.66,0.42,39146958.05,50.48,8,915.67,Top 80%
+80,479,General Supplies,Canada,Value Added Reseller,318252.19,0.41,39465210.24,50.89,8,952.85,Top 80%
+81,257,Number 1 Supply,United States,Warehouse,316605.87,0.41,39781816.11,51.3,8,1445.69,Top 80%
+82,403,Affordable Sports Equipment,United States,Value Added Reseller,311445.75,0.4,40093261.86,51.7,8,1157.79,Top 80%
+83,523,Futuristic Sport Distributors,United States,Warehouse,310485.08,0.4,40403746.94,52.1,8,979.45,Top 80%
+84,520,Metro Metals Co.,United Kingdom,Warehouse,309837.11,0.4,40713584.05,52.5,4,2581.98,Top 80%
+85,430,Uttermost Bike Shop,United Kingdom,Value Added Reseller,309815.05,0.4,41023399.1,52.9,8,1094.75,Top 80%
+86,376,Commerce Bicycle Specialists,United Kingdom,Value Added Reseller,302590.08,0.39,41325989.18,53.29,8,963.66,Top 80%
+87,558,Retail Sales And Service,United States,Value Added Reseller,299600.37,0.39,41625589.55,53.68,12,1073.84,Top 80%
+88,345,Genial Bike Associates,United States,Warehouse,294524.04,0.38,41920113.59,54.06,8,1178.1,Top 80%
+89,476,Noiseless Gear Company,United States,Value Added Reseller,294287.81,0.38,42214401.4,54.44,8,1401.37,Top 80%
+90,352,Twelfth Bike Store,Canada,Value Added Reseller,292812.77,0.38,42507214.17,54.81,8,1109.14,Top 80%
+91,414,Grand Discount Store,United States,Warehouse,292575.49,0.38,42799789.660000004,55.19,8,943.79,Top 80%
+92,317,Finer Riding Supplies,Canada,Warehouse,290158.19,0.37,43089947.85,55.57,12,1160.63,Top 80%
+93,354,Serious Cycles,Canada,Warehouse,289958.34,0.37,43379906.19,55.94,8,4327.74,Top 80%
+94,61,Many Bikes Store,United States,Value Added Reseller,289527.04,0.37,43669433.23,56.31,7,1153.49,Top 80%
+95,125,Immediate Repair Shop,United States,Value Added Reseller,289036.55,0.37,43958469.78,56.69,8,1459.78,Top 80%
+96,614,Favorite Toy Distributor,France,Warehouse,288775.96,0.37,44247245.74,57.06,4,2578.36,Top 80%
+97,233,Fashionable Department Stores,United States,Warehouse,287191.73,0.37,44534437.47,57.43,8,716.19,Top 80%
+98,203,Separate Parts Corporation,United States,Value Added Reseller,287127.64,0.37,44821565.11,57.8,8,1071.37,Top 80%
+99,481,Getaway Inn,France,Warehouse,285339.97,0.37,45106905.08,58.17,7,1150.56,Top 80%
+100,666,Bike Boutique,United States,Warehouse,284875.18,0.37,45391780.26,58.53,8,1591.48,Top 80%
+101,336,Primary Bike Distributors,Canada,Warehouse,279023.81,0.36,45670804.07,58.89,12,1641.32,Top 80%
+102,435,Satin Finish Company,United States,Warehouse,278962.76,0.36,45949766.83,59.25,8,1060.69,Top 80%
+103,302,Best Cycle Store,Germany,Warehouse,278251.2,0.36,46228018.03,59.61,4,1572.04,Top 80%
+104,346,Great Bicycle Supply,United States,Value Added Reseller,276531.45,0.36,46504549.48,59.97,4,7277.14,Top 80%
+105,381,Bicycle Lines Distributors,United States,Warehouse,274945.45,0.35,46779494.93,60.32,8,1099.78,Top 80%
+106,366,Extended Bike Sales,United States,Warehouse,272181.68,0.35,47051676.61,60.67,4,3489.51,Top 80%
+107,426,Custom Accessories Company,Canada,Warehouse,269547.01,0.35,47321223.62,61.02,8,1078.19,Top 80%
+108,43,Frugal Bike Shop,United States,Value Added Reseller,269108.15,0.35,47590331.77,61.37,8,1394.34,Top 80%
+109,133,Commercial Sporting Goods,United States,Warehouse,268913.41,0.35,47859245.18,61.72,4,1438.04,Top 80%
+110,527,Fun Times Club,United States,Value Added Reseller,268236.11,0.35,48127481.29,62.06,12,1230.44,Top 80%
+111,588,General Cycle Storehouse,Canada,Value Added Reseller,264731.15,0.34,48392212.44,62.4,8,1975.61,Top 80%
+112,154,Camping And Sports Store,Canada,Warehouse,263787.79,0.34,48656000.23,62.74,3,2867.26,Top 80%
+113,642,Fitness Sport Boutique,United States,Value Added Reseller,259082.6,0.33,48915082.83,63.08,4,1977.73,Top 80%
+114,21,Chic Department Stores,United States,Warehouse,257293.99,0.33,49172376.82,63.41,7,1180.25,Top 80%
+115,169,Downtown Hotel,United States,Warehouse,254866.0,0.33,49427242.82,63.74,4,4719.74,Top 80%
+116,355,Spare Parts Co.,France,Value Added Reseller,254180.49,0.33,49681423.31,64.06,8,855.83,Top 80%
+117,12,Bikes And Motorbikes,Canada,Warehouse,253013.53,0.33,49934436.84,64.39,8,1008.02,Top 80%
+118,530,Valuable Bike Parts Company,United States,Value Added Reseller,249739.22,0.32,50184176.06,64.71,8,792.82,Top 80%
+119,149,Initial Bike Company,United States,Value Added Reseller,249107.53,0.32,50433283.59,65.03,7,1122.11,Top 80%
+120,437,Professional Cycle Store,United States,Value Added Reseller,248134.92,0.32,50681418.51,65.35,8,1299.14,Top 80%
+121,327,World Of Bikes,United States,Value Added Reseller,246063.35,0.32,50927481.86,65.67,7,1008.46,Top 80%
+122,340,Nearby Cycle Shop,United Kingdom,Value Added Reseller,243427.92,0.31,51170909.78,65.99,7,1440.4,Top 80%
+123,448,Action Bicycle Specialists,United Kingdom,Warehouse,238160.41,0.31,51409070.19,66.29,3,1751.18,Top 80%
+124,255,Swift Cycles,United States,Value Added Reseller,228419.26,0.29,51637489.45,66.59,12,1343.64,Top 80%
+125,45,Every Bike Shop,United States,Warehouse,223285.08,0.29,51860774.53,66.88,12,1213.51,Top 80%
+126,108,Wheelsets Storehouse,United States,Warehouse,222822.92,0.29,52083597.45,67.16,8,877.26,Top 80%
+127,685,Family Cycle Store,Canada,Value Added Reseller,220675.93,0.28,52304273.38,67.45,7,1442.33,Top 80%
+128,497,Valley Toy Store,Canada,Value Added Reseller,220371.2,0.28,52524644.58,67.73,7,1074.98,Top 80%
+129,142,Riding Cycles,United Kingdom,Warehouse,219163.4,0.28,52743807.98,68.01,3,1588.14,Top 80%
+130,197,"Fabrikam Inc., West",United States,Value Added Reseller,218041.08,0.28,52961849.06,68.3,7,912.31,Top 80%
+131,110,Vintage Sport Boutique,United States,Value Added Reseller,216399.15,0.28,53178248.21,68.57,4,1482.19,Top 80%
+132,315,Juvenile Sports Equipment,United States,Value Added Reseller,212369.09,0.27,53390617.3,68.85,8,1264.1,Top 80%
+133,535,Spa And Exercise Outfitters,France,Warehouse,210248.93,0.27,53600866.23,69.12,8,796.4,Top 80%
+134,605,Outstanding Cycles,United States,Warehouse,208154.96,0.27,53809021.19,69.39,4,1261.55,Top 80%
+135,272,Metro Cycle Shop,United States,Warehouse,206558.71,0.27,54015579.9,69.65,9,1679.34,Top 80%
+136,320,Amalgamated Parts Shop,Germany,Warehouse,203448.91,0.26,54219028.81,69.92,4,1304.16,Top 80%
+137,461,Active Life Toys,Canada,Value Added Reseller,200012.86,0.26,54419041.67,70.17,4,1156.14,Top 80%
+138,263,Farthest Bike Store,Canada,Warehouse,199020.59,0.26,54618062.26,70.43,4,1372.56,Top 80%
+139,512,Tiny Bike Boutique,United States,Value Added Reseller,194563.61,0.25,54812625.87,70.68,4,1473.97,Top 80%
+140,422,Consolidated Sales,United States,Specialty Bike Shop,193782.95,0.25,55006408.82,70.93,12,1550.26,Top 80%
+141,91,Scooters And Bikes Store,United States,Value Added Reseller,193258.6,0.25,55199667.42,71.18,4,1823.19,Top 80%
+142,331,Technical Parts Manufacturing,United States,Value Added Reseller,190905.82,0.25,55390573.24,71.43,4,1604.25,Top 80%
+143,266,Excellent Bikes,Germany,Warehouse,189439.52,0.24,55580012.76,71.67,4,1222.19,Top 80%
+144,401,Brightwork Company,United States,Specialty Bike Shop,184845.41,0.24,55764858.17,71.91,12,1621.45,Top 80%
+145,363,Immense Manufacturing Company,United States,Warehouse,184153.16,0.24,55949011.33,72.15,4,2593.71,Top 80%
+146,693,Stock Parts And Supplies,United States,Warehouse,183185.87,0.24,56132197.2,72.38,4,2058.27,Top 80%
+147,575,Bicycle Outfitters,United States,Warehouse,182933.09,0.24,56315130.29,72.62,8,1577.01,Top 80%
+148,130,Elite Bikes,United States,Warehouse,179994.3,0.23,56495124.59,72.85,4,952.35,Top 80%
+149,40,Journey Sporting Goods,United States,Value Added Reseller,175503.44,0.23,56670628.03,73.08,4,3375.07,Top 80%
+150,539,Glossy Bikes,United States,Value Added Reseller,172411.7,0.22,56843039.73,73.3,3,1134.29,Top 80%
+151,505,Honest Repair Service,United States,Warehouse,167613.83,0.22,57010653.56,73.52,4,2121.69,Top 80%
+152,536,Next Door Cycles,Germany,Value Added Reseller,167611.3,0.22,57178264.86,73.73,3,1693.04,Top 80%
+153,408,Odometers And Accessories Company,Canada,Warehouse,167506.36,0.22,57345771.22,73.95,3,1419.55,Top 80%
+154,182,Another Bicycle Company,United States,Value Added Reseller,167361.35,0.22,57513132.57,74.16,3,1258.36,Top 80%
+155,573,Nationwide Supply,Australia,Value Added Reseller,166967.27,0.22,57680099.84,74.38,3,1128.16,Top 80%
+156,99,Unified Sports Company,United States,Warehouse,165860.13,0.21,57845959.97,74.59,11,2909.83,Top 80%
+157,567,Global Plaza,United States,Value Added Reseller,165149.92,0.21,58011109.89,74.81,4,4587.5,Top 80%
+158,621,Running And Cycling Gear,United States,Value Added Reseller,164456.31,0.21,58175566.2,75.02,3,1596.66,Top 80%
+159,73,Outdoor Sports Supply,United States,Value Added Reseller,162319.14,0.21,58337885.34,75.23,7,3005.91,Top 80%
+160,667,Traditional Department Stores,United States,Value Added Reseller,158416.44,0.2,58496301.78,75.43,8,1320.14,Top 80%
+161,260,Industrial Supplies,United States,Warehouse,158389.1,0.2,58654690.88,75.64,4,2004.93,Top 80%
+162,196,Exhibition Showroom,United Kingdom,Warehouse,157298.42,0.2,58811989.3,75.84,4,689.91,Top 80%
+163,308,Rugged Bikes,United States,Warehouse,155522.33,0.2,58967511.63,76.04,3,2549.55,Top 80%
+164,87,Rich Department Store,Australia,Warehouse,154664.79,0.2,59122176.42,76.24,4,2118.7,Top 80%
+165,687,Functional Store South,Germany,Warehouse,154595.59,0.2,59276772.01,76.44,4,690.16,Top 80%
+166,27,Sports Sales And Rental,United States,Warehouse,154348.66,0.2,59431120.67,76.64,9,3507.92,Top 80%
+167,644,Convenient Sales And Service,United States,Warehouse,153405.37,0.2,59584526.04,76.84,7,1322.46,Top 80%
+168,102,National Manufacturing,Canada,Warehouse,153402.16,0.2,59737928.2,77.03,8,1394.57,Top 80%
+169,145,Raw Materials Inc,United States,Warehouse,153310.37,0.2,59891238.57,77.23,4,2395.47,Top 80%
+170,451,Roadway Bike Emporium,United States,Warehouse,151449.03,0.2,60042687.6,77.43,4,2133.08,Top 80%
+171,17,Trusted Catalog Store,United States,Specialty Bike Shop,151404.66,0.2,60194092.26,77.62,12,1455.81,Top 80%
+172,52,Instruments And Parts Company,United Kingdom,Value Added Reseller,151377.85,0.2,60345470.11,77.82,3,1560.6,Top 80%
+173,199,Authorized Bike Sales And Rental,United States,Warehouse,150221.55,0.19,60495691.660000004,78.01,4,1831.97,Top 80%
+174,63,Metro Bike Mart,United States,Warehouse,149513.9,0.19,60645205.56,78.2,11,1038.29,Top 80%
+175,393,Gears And Parts Company,Australia,Warehouse,148979.84,0.19,60794185.4,78.39,4,1619.35,Top 80%
+176,397,Capable Sales And Service,United States,Value Added Reseller,148840.03,0.19,60943025.43,78.59,4,4022.7,Top 80%
+177,139,Steel Inc.,France,Warehouse,148709.25,0.19,61091734.68,78.78,8,638.24,Top 80%
+178,326,Year-Round Sports,United States,Warehouse,148658.95,0.19,61240393.63,78.97,6,3457.18,Top 80%
+179,632,Ultimate Bicycle Company,France,Warehouse,148262.77,0.19,61388656.4,79.16,4,1036.8,Top 80%
+180,487,Bike Experts,United States,Warehouse,147819.57,0.19,61536475.97,79.35,4,835.14,Top 80%
+181,396,Executive Gift Store,United States,Warehouse,146261.2,0.19,61682737.17,79.54,8,1239.5,Top 80%
+182,57,Leading Sales & Repair,United States,Warehouse,146234.86,0.19,61828972.03,79.73,4,1419.76,Top 80%
+183,348,Bold Bike Accessories,United States,Warehouse,144825.43,0.19,61973797.46,79.92,11,1931.01,Top 80%
+184,653,Mercantile Outlet,Canada,Warehouse,144602.52,0.19,62118399.98,80.1,4,1377.17,Remaining 20%
+185,484,Downhill Bicycle Specialists,United Kingdom,Warehouse,141880.69,0.18,62260280.67,80.29,4,854.7,Remaining 20%
+186,384,Sparkling Paint And Finishes,United States,Warehouse,140874.22,0.18,62401154.89,80.47,4,4143.36,Remaining 20%
+187,542,Finer Parts Shop,United States,Value Added Reseller,140479.83,0.18,62541634.72,80.65,8,1463.33,Remaining 20%
+188,420,Extreme Riding Supplies,United States,Warehouse,139014.01,0.18,62680648.73,80.83,3,2316.9,Remaining 20%
+189,469,Vast Bike Sales And Rental,United States,Warehouse,138840.68,0.18,62819489.410000004,81.01,4,2136.01,Remaining 20%
+190,454,Sleek Bikes,United States,Warehouse,138536.16,0.18,62958025.57,81.19,3,2198.99,Remaining 20%
+191,184,Go-Cart And Bike Specialists,United States,Warehouse,138515.39,0.18,63096540.96,81.36,4,948.74,Remaining 20%
+192,584,Qualified Sales And Repair Services,United States,Warehouse,137716.12,0.18,63234257.08,81.54,4,1197.53,Remaining 20%
+193,581,Safe Toys,United States,Warehouse,137528.83,0.18,63371785.910000004,81.72,4,3619.18,Remaining 20%
+194,281,Petroleum Products Distributors,Canada,Warehouse,133081.69,0.17,63504867.6,81.89,3,1064.65,Remaining 20%
+195,391,Pretty Bikes And Toys,France,Value Added Reseller,132837.68,0.17,63637705.28,82.06,4,1459.75,Remaining 20%
+196,109,Travel Sports,United States,Value Added Reseller,132410.22,0.17,63770115.5,82.23,3,1085.33,Remaining 20%
+197,585,Next-Door Bike Store,United States,Value Added Reseller,131762.71,0.17,63901878.21,82.4,7,1029.4,Remaining 20%
+198,252,Classic Cycle Store,United States,Value Added Reseller,131729.31,0.17,64033607.52,82.57,9,1431.84,Remaining 20%
+199,611,Front Runner Bikes,United States,Warehouse,131151.89,0.17,64164759.410000004,82.74,3,1032.69,Remaining 20%
+200,127,Front Sporting Goods,United States,Warehouse,130995.2,0.17,64295754.61,82.91,4,723.73,Remaining 20%
+201,494,Worthwhile Activity Store,United States,Value Added Reseller,130652.35,0.17,64426406.96,83.08,7,1166.54,Remaining 20%
+202,552,Consolidated Messenger,Canada,Value Added Reseller,128411.74,0.17,64554818.7,83.24,4,923.83,Remaining 20%
+203,602,Ultimate Bike Shop,United States,Warehouse,126488.09,0.16,64681306.79,83.41,8,3011.62,Remaining 20%
+204,100,Up-To-Date Sports,Canada,Value Added Reseller,125849.34,0.16,64807156.13,83.57,4,1094.34,Remaining 20%
+205,569,Designated Distributors,Canada,Warehouse,125381.07,0.16,64932537.2,83.73,4,1217.29,Remaining 20%
+206,540,Guaranteed Sales And Service,United States,Specialty Bike Shop,125173.96,0.16,65057711.160000004,83.89,8,1375.54,Remaining 20%
+207,700,Underglaze And Finish Company,United States,Value Added Reseller,120654.42,0.16,65178365.58,84.05,4,768.5,Remaining 20%
+208,231,Helmets And Cycles,Australia,Value Added Reseller,118296.97,0.15,65296662.55,84.2,4,1046.88,Remaining 20%
+209,15,Budget Toy Store,Australia,Warehouse,116805.63,0.15,65413468.18,84.35,3,1204.18,Remaining 20%
+210,482,"Fabrikam Inc., East",Germany,Value Added Reseller,116552.57,0.15,65530020.75,84.5,4,1324.46,Remaining 20%
+211,368,Elemental Sporting Goods,United States,Specialty Bike Shop,115943.17,0.15,65645963.92,84.65,11,1633.0,Remaining 20%
+212,361,Fitness Supplies,United States,Value Added Reseller,114536.65,0.15,65760500.57,84.8,4,698.39,Remaining 20%
+213,457,Retail Sporting Equipment,United States,Warehouse,114299.76,0.15,65874800.33,84.95,4,1256.04,Remaining 20%
+214,306,Work And Play Association,United States,Value Added Reseller,113945.77,0.15,65988746.1,85.09,7,1479.82,Remaining 20%
+215,66,Neighborhood Store,Canada,Warehouse,113206.16,0.15,66101952.26,85.24,4,744.78,Remaining 20%
+216,624,First Cycle Store,United States,Value Added Reseller,110728.59,0.14,66212680.85,85.38,9,1244.14,Remaining 20%
+217,20,Central Discount Store,United States,Specialty Bike Shop,110629.49,0.14,66323310.34,85.52,11,1229.22,Remaining 20%
+218,131,Eighth Bike Store,United States,Value Added Reseller,109111.41,0.14,66432421.75,85.67,4,1069.72,Remaining 20%
+219,559,Some Discount Store,United States,Specialty Bike Shop,109074.54,0.14,66541496.29,85.81,7,3518.53,Remaining 20%
+220,163,Sports Merchandise,United States,Warehouse,108780.3,0.14,66650276.59,85.95,3,2014.45,Remaining 20%
+221,691,Mountain Bike Store,United States,Value Added Reseller,108295.06,0.14,66758571.65,86.09,4,1061.72,Remaining 20%
+222,103,The Bike Outlet,France,Value Added Reseller,107807.05,0.14,66866378.7,86.23,4,1078.07,Remaining 20%
+223,672,Utilitarian Sporting Goods,United States,Warehouse,105379.61,0.14,66971758.31,86.36,3,1405.06,Remaining 20%
+224,34,Cycles Wholesaler & Mfg.,United Kingdom,Value Added Reseller,104596.55,0.13,67076354.86,86.5,4,1005.74,Remaining 20%
+225,48,Grand Industries,Canada,Warehouse,104508.82,0.13,67180863.68,86.63,3,1801.88,Remaining 20%
+226,176,Rodeway Bike Store,Germany,Value Added Reseller,102533.24,0.13,67283396.92,86.76,3,840.44,Remaining 20%
+227,544,Valley Bicycle Specialists,United States,Warehouse,101947.2,0.13,67385344.12,86.89,5,926.79,Remaining 20%
+228,191,Non-Slip Pedal Company,Canada,Value Added Reseller,101871.14,0.13,67487215.26,87.03,9,1289.51,Remaining 20%
+229,647,Solid Bike Parts,United States,Warehouse,101203.69,0.13,67588418.95,87.16,8,887.75,Remaining 20%
+230,612,General Associates,United States,Value Added Reseller,101000.32,0.13,67689419.27,87.29,12,952.83,Remaining 20%
+231,264,Fasteners & Bolts Outlet,Canada,Value Added Reseller,100403.75,0.13,67789823.02,87.42,4,683.02,Remaining 20%
+232,216,Painters Bicycle Specialists,United States,Specialty Bike Shop,99674.35,0.13,67889497.37,87.54,11,760.87,Remaining 20%
+233,556,Variety Cycling,United Kingdom,Specialty Bike Shop,98487.43,0.13,67987984.8,87.67,4,1727.85,Remaining 20%
+234,289,Moderately-Priced Bikes Store,United States,Specialty Bike Shop,95321.33,0.12,68083306.13,87.79,12,1401.78,Remaining 20%
+235,438,Remarkable Bike Store,United States,Specialty Bike Shop,94973.23,0.12,68178279.36,87.92,10,1233.42,Remaining 20%
+236,143,Modern Bike Store,United States,Value Added Reseller,94373.95,0.12,68272653.31,88.04,9,1110.28,Remaining 20%
+237,179,Fourth Bike Store,United States,Value Added Reseller,94346.23,0.12,68366999.54,88.16,3,737.08,Remaining 20%
+238,64,Metal Clearing House,Canada,Value Added Reseller,93905.88,0.12,68460905.42,88.28,4,948.54,Remaining 20%
+239,47,Greater Bike Store,Canada,Specialty Bike Shop,93760.55,0.12,68554665.97,88.4,11,1378.83,Remaining 20%
+240,161,Weekend Tours,United States,Value Added Reseller,90764.15,0.12,68645430.12,88.52,8,1260.61,Remaining 20%
+241,464,Educational Services,Germany,Value Added Reseller,89435.17,0.12,68734865.29,88.63,3,721.25,Remaining 20%
+242,301,Rural Mountain Bike Mart,France,Specialty Bike Shop,88730.12,0.11,68823595.41,88.75,8,1706.35,Remaining 20%
+243,679,Superb Sales And Repair,Canada,Value Added Reseller,88724.66,0.11,68912320.07,88.86,9,996.91,Remaining 20%
+244,88,Closest Bicycle Store,United Kingdom,Value Added Reseller,88667.28,0.11,69000987.35,88.98,3,1019.16,Remaining 20%
+245,240,Wire Baskets And Parts,United States,Value Added Reseller,88310.89,0.11,69089298.24,89.09,4,981.23,Remaining 20%
+246,270,Active Transport Inc.,United States,Value Added Reseller,88245.81,0.11,69177544.05,89.21,8,1242.9,Remaining 20%
+247,23,Bike World,United States,Specialty Bike Shop,87941.98,0.11,69265486.03,89.32,7,1034.61,Remaining 20%
+248,267,Cycle Parts And Accessories,Australia,Value Added Reseller,87616.07,0.11,69353102.1,89.43,3,834.44,Remaining 20%
+249,364,District Mall,United States,Value Added Reseller,87491.3,0.11,69440593.4,89.54,4,1267.99,Remaining 20%
+250,485,Clamps & Brackets Co.,United States,Value Added Reseller,87271.19,0.11,69527864.59,89.66,4,3009.35,Remaining 20%
+251,222,Sample Bike Store,United States,Value Added Reseller,87201.28,0.11,69615065.87,89.77,5,1503.47,Remaining 20%
+252,668,Official Parts Shop,United States,Specialty Bike Shop,85798.84,0.11,69700864.71,89.88,8,986.19,Remaining 20%
+253,1,A Bike Store,United States,Value Added Reseller,85177.04,0.11,69786041.75,89.99,4,1166.81,Remaining 20%
+254,273,A Typical Bike Shop,United States,Value Added Reseller,83457.15,0.11,69869498.9,90.1,4,1112.76,Remaining 20%
+255,453,Unique Bikes,United States,Specialty Bike Shop,83441.47,0.11,69952940.37,90.21,4,2691.66,Remaining 20%
+256,531,Sunny Place Bikes,United States,Specialty Bike Shop,83433.14,0.11,70036373.51,90.31,11,787.11,Remaining 20%
+257,682,Popular Bike Lines,Australia,Value Added Reseller,83316.69,0.11,70119690.2,90.42,3,730.85,Remaining 20%
+258,529,Big-Time Bike Store,United States,Warehouse,83292.08,0.11,70202982.28,90.53,8,1110.56,Remaining 20%
+259,431,Small Cycle Store,United States,Specialty Bike Shop,82995.0,0.11,70285977.28,90.63,12,685.91,Remaining 20%
+260,121,Metro Sports Equipment,France,Warehouse,82853.33,0.11,70368830.61,90.74,6,930.94,Remaining 20%
+261,297,Blue-Ribbon Bike Company,United States,Value Added Reseller,82771.35,0.11,70451601.96,90.85,3,930.02,Remaining 20%
+262,627,Exchange Parts Inc.,United States,Value Added Reseller,82443.92,0.11,70534045.88,90.95,3,993.3,Remaining 20%
+263,377,Grand Sport Boutique,United States,Specialty Bike Shop,82356.1,0.11,70616401.98,91.06,8,957.63,Remaining 20%
+264,549,Daring Rides,United States,Value Added Reseller,81838.55,0.11,70698240.53,91.17,4,1387.09,Remaining 20%
+265,55,Kickstands And Accessories Company,United States,Value Added Reseller,81033.26,0.1,70779273.79,91.27,3,1012.92,Remaining 20%
+266,582,Professional Sales And Service,United States,Value Added Reseller,80930.53,0.1,70860204.32,91.38,3,680.09,Remaining 20%
+267,249,Helpful Sales And Repair Service,Australia,Value Added Reseller,80621.85,0.1,70940826.17,91.48,3,732.93,Remaining 20%
+268,164,Suburban Cycle Shop,United States,Value Added Reseller,78543.32,0.1,71019369.49,91.58,7,3272.64,Remaining 20%
+269,646,Yellow Bicycle Company,United States,Specialty Bike Shop,77468.45,0.1,71096837.94,91.68,5,2766.73,Remaining 20%
+270,5,Metropolitan Sports Supply,United States,Specialty Bike Shop,77174.62,0.1,71174012.56,91.78,7,1086.97,Remaining 20%
+271,279,Reliable Brake Systems,United States,Value Added Reseller,77140.97,0.1,71251153.53,91.88,4,1753.2,Remaining 20%
+272,423,Bike Rims Company,United States,Warehouse,76463.99,0.1,71327617.52,91.98,6,955.8,Remaining 20%
+273,688,Bike Part Wholesalers,Australia,Value Added Reseller,76276.8,0.1,71403894.32,92.08,3,595.91,Remaining 20%
+274,282,Quick Parts And Service,Canada,Value Added Reseller,75698.84,0.1,71479593.16,92.17,3,1009.32,Remaining 20%
+275,136,Wholesale Parts,Canada,Warehouse,71252.79,0.09,71550845.95,92.27,4,1207.67,Remaining 20%
+276,36,Exotic Bikes,United States,Warehouse,70893.83,0.09,71621739.78,92.36,10,1143.45,Remaining 20%
+277,576,The Bike Mechanics,United States,Value Added Reseller,70703.43,0.09,71692443.21,92.45,10,1683.41,Remaining 20%
+278,522,Small Bike Accessories Shop,United States,Specialty Bike Shop,69544.33,0.09,71761987.54,92.54,4,837.88,Remaining 20%
+279,29,Cross-Country Riding Supplies,Canada,Specialty Bike Shop,69150.18,0.09,71831137.72,92.63,4,2766.01,Remaining 20%
+280,213,Fast Bike Works,Australia,Specialty Bike Shop,68910.76,0.09,71900048.48,92.72,4,1531.35,Remaining 20%
+281,259,Highway Bike Shop,United States,Specialty Bike Shop,68636.84,0.09,71968685.32,92.8,12,618.35,Remaining 20%
+282,509,Fun Toys And Bikes,United States,Value Added Reseller,68421.22,0.09,72037106.54,92.89,3,924.61,Remaining 20%
+283,311,Principal Bike Company,United States,Warehouse,66874.8,0.09,72103981.34,92.98,7,1261.79,Remaining 20%
+284,62,Manufacturers Inc,United States,Specialty Bike Shop,66335.33,0.09,72170316.67,93.06,8,908.7,Remaining 20%
+285,353,Two-Wheeled Transit Company,Canada,Specialty Bike Shop,66192.9,0.09,72236509.57,93.15,12,1248.92,Remaining 20%
+286,460,Price-Cutter Discount Bikes,Canada,Warehouse,64689.78,0.08,72301199.35,93.23,7,788.9,Remaining 20%
+287,683,Oils And Fluids Warehouse,United Kingdom,Specialty Bike Shop,62396.43,0.08,72363595.78,93.31,8,1356.44,Remaining 20%
+288,138,South Bike Company,Canada,Specialty Bike Shop,62378.31,0.08,72425974.09,93.39,4,959.67,Remaining 20%
+289,389,Sixth Bike Store,Canada,Specialty Bike Shop,61808.91,0.08,72487783.0,93.47,8,1626.55,Remaining 20%
+290,93,Stationary Bikes And Stands,United States,Warehouse,61616.61,0.08,72549399.61,93.55,4,821.55,Remaining 20%
+291,592,Cycling Goods,United Kingdom,Specialty Bike Shop,60997.8,0.08,72610397.41,93.63,8,628.84,Remaining 20%
+292,480,General Bike Corporation,Canada,Specialty Bike Shop,60710.25,0.08,72671107.66,93.71,12,474.3,Remaining 20%
+293,41,Distant Inn,United States,Specialty Bike Shop,60387.42,0.08,72731495.08,93.79,8,629.04,Remaining 20%
+294,210,Gasless Cycle Shop,Canada,Specialty Bike Shop,60027.8,0.08,72791522.88,93.87,12,461.75,Remaining 20%
+295,519,List Price Catalog Company,Australia,Specialty Bike Shop,59933.39,0.08,72851456.27,93.94,4,881.37,Remaining 20%
+296,444,Finer Cycle Shop,Canada,Specialty Bike Shop,59368.24,0.08,72910824.51,94.02,8,698.45,Remaining 20%
+297,492,Basic Sports Equipment,United States,Specialty Bike Shop,58235.55,0.08,72969060.06,94.09,12,909.93,Remaining 20%
+298,156,Metal Processing Company,Canada,Specialty Bike Shop,58079.63,0.07,73027139.69,94.17,11,468.38,Remaining 20%
+299,410,Pedaling Components,Germany,Specialty Bike Shop,57153.1,0.07,73084292.79,94.24,4,1544.68,Remaining 20%
+300,586,One Bike Company,Canada,Specialty Bike Shop,57036.05,0.07,73141328.84,94.32,7,1358.0,Remaining 20%
+301,180,Full-Service Bike Store,United States,Specialty Bike Shop,56395.3,0.07,73197724.14,94.39,4,2169.05,Remaining 20%
+302,319,Cycles Sales And Repair,France,Specialty Bike Shop,56007.27,0.07,73253731.41,94.46,3,1473.88,Remaining 20%
+303,342,Leather And Vinyl Manufacturing,United States,Warehouse,55710.82,0.07,73309442.23,94.53,4,752.85,Remaining 20%
+304,292,Grease And Oil Products Company,United States,Specialty Bike Shop,55198.48,0.07,73364640.71,94.6,12,541.16,Remaining 20%
+305,571,Community Department Stores,France,Specialty Bike Shop,53550.51,0.07,73418191.22,94.67,7,733.57,Remaining 20%
+306,207,Lubricant And Grease Suppliers,United States,Specialty Bike Shop,53440.26,0.07,73471631.48,94.74,8,643.86,Remaining 20%
+307,640,Liquidation Sales,Australia,Specialty Bike Shop,52660.42,0.07,73524291.9,94.81,3,849.36,Remaining 20%
+308,65,Metro Manufacturing,Canada,Specialty Bike Shop,52306.07,0.07,73576597.97,94.88,8,637.88,Remaining 20%
+309,432,Super Sports Store,United States,Warehouse,51803.08,0.07,73628401.05,94.94,12,977.42,Remaining 20%
+310,622,Gift And Toy Store,United States,Specialty Bike Shop,49642.02,0.06,73678043.07,95.01,8,463.94,Remaining 20%
+311,280,Standard Bikes,Canada,Specialty Bike Shop,49438.43,0.06,73727481.5,95.07,8,823.97,Remaining 20%
+312,11,Sharp Bikes,Canada,Specialty Bike Shop,48761.76,0.06,73776243.26,95.14,4,2566.41,Remaining 20%
+313,223,Paints And Solvents Company,United States,Specialty Bike Shop,48530.78,0.06,73824774.04,95.2,3,1032.57,Remaining 20%
+314,120,Machines & Cycles Store,Canada,Specialty Bike Shop,47630.02,0.06,73872404.06,95.26,4,866.0,Remaining 20%
+315,135,Wonderful Bikes Inc.,United States,Specialty Bike Shop,47478.55,0.06,73919882.61,95.32,4,879.23,Remaining 20%
+316,92,Sports Commodities,United States,Specialty Bike Shop,46135.39,0.06,73966018.0,95.38,4,2097.06,Remaining 20%
+317,335,Scratch-Resistant Finishes Company,Canada,Specialty Bike Shop,45769.44,0.06,74011787.44,95.44,9,1271.37,Remaining 20%
+318,286,Number One Bike Co.,United Kingdom,Specialty Bike Shop,44989.67,0.06,74056777.11,95.5,8,817.99,Remaining 20%
+319,183,This Area Sporting Goods,United States,Specialty Bike Shop,44573.58,0.06,74101350.69,95.55,8,990.52,Remaining 20%
+320,417,Genuine Bike Shop,United States,Warehouse,43911.23,0.06,74145261.92,95.61,7,744.26,Remaining 20%
+321,186,Thrilling Bike Tours,United States,Specialty Bike Shop,43434.92,0.06,74188696.84,95.67,3,1206.53,Remaining 20%
+322,404,Activity Center,United States,Specialty Bike Shop,42803.81,0.06,74231500.65,95.72,8,586.35,Remaining 20%
+323,144,Only Bikes And Accessories,United States,Specialty Bike Shop,42676.89,0.06,74274177.54,95.78,4,2845.13,Remaining 20%
+324,649,Sports Products Store,United States,Specialty Bike Shop,42510.15,0.05,74316687.69,95.83,7,664.22,Remaining 20%
+325,613,Famous Bike Shop,Canada,Specialty Bike Shop,41981.38,0.05,74358669.07,95.89,7,763.3,Remaining 20%
+326,147,Local Hardware Factory,United States,Specialty Bike Shop,41816.38,0.05,74400485.45,95.94,4,1306.76,Remaining 20%
+327,107,Wholesale Bikes,United States,Specialty Bike Shop,41565.74,0.05,74442051.19,95.99,12,681.41,Remaining 20%
+328,77,Mechanical Products Ltd.,United States,Specialty Bike Shop,41335.79,0.05,74483386.98,96.05,8,397.46,Remaining 20%
+329,256,Rental Bikes,United States,Specialty Bike Shop,40581.18,0.05,74523968.16,96.1,6,1229.73,Remaining 20%
+330,380,First Department Stores,United States,Specialty Bike Shop,40287.05,0.05,74564255.21,96.15,8,682.83,Remaining 20%
+331,283,Racing Supply Distributors,France,Specialty Bike Shop,39975.61,0.05,74604230.82,96.2,4,799.51,Remaining 20%
+332,177,Plastic Products Manufacturers,Australia,Specialty Bike Shop,39462.61,0.05,74643693.43,96.25,4,1127.5,Remaining 20%
+333,235,Certified Bicycle Supply,United States,Specialty Bike Shop,36946.88,0.05,74680640.31,96.3,7,429.61,Remaining 20%
+334,83,Requisite Part Supply,Canada,Specialty Bike Shop,36649.98,0.05,74717290.29,96.35,4,1357.41,Remaining 20%
+335,473,Racing Toys,United States,Value Added Reseller,36215.34,0.05,74753505.63,96.4,11,646.7,Remaining 20%
+336,675,Bike Goods,United States,Warehouse,35847.34,0.05,74789352.97,96.44,11,746.82,Remaining 20%
+337,686,Finished Parts Shop,France,Specialty Bike Shop,35704.55,0.05,74825057.52,96.49,8,915.5,Remaining 20%
+338,101,Urban Sports Emporium,Canada,Specialty Bike Shop,35248.14,0.05,74860305.66,96.53,8,342.21,Remaining 20%
+339,126,Famous Bike Sales And Service,United States,Specialty Bike Shop,35180.22,0.05,74895485.88,96.58,10,576.72,Remaining 20%
+340,692,Successful Sales Company,United States,Specialty Bike Shop,35084.51,0.05,74930570.39,96.62,7,427.86,Remaining 20%
+341,662,Finer Sporting Goods,France,Specialty Bike Shop,34997.37,0.05,74965567.76,96.67,4,583.29,Remaining 20%
+342,661,General Department Stores,Canada,Value Added Reseller,34338.26,0.04,74999906.02,96.71,10,647.89,Remaining 20%
+343,59,Locks Company,United States,Specialty Bike Shop,32780.83,0.04,75032686.85,96.76,3,1024.4,Remaining 20%
+344,486,Convenient Bike Shop,United States,Specialty Bike Shop,32646.35,0.04,75065333.2,96.8,4,1053.11,Remaining 20%
+345,89,Riverside Company,United States,Specialty Bike Shop,32251.38,0.04,75097584.58,96.84,7,948.57,Remaining 20%
+346,313,Metropolitan Manufacturing,United States,Specialty Bike Shop,32116.11,0.04,75129700.69,96.88,11,472.3,Remaining 20%
+347,123,First Supplies,Australia,Specialty Bike Shop,31477.47,0.04,75161178.16,96.92,4,828.35,Remaining 20%
+348,86,Bicycle Exporters,Germany,Specialty Bike Shop,31039.18,0.04,75192217.34,96.96,4,816.82,Remaining 20%
+349,643,Friendly Bike Shop,United States,Specialty Bike Shop,30564.47,0.04,75222781.81,97.0,7,849.01,Remaining 20%
+350,425,Bikes For Kids And Adults,Canada,Specialty Bike Shop,29688.32,0.04,75252470.13,97.04,8,674.73,Remaining 20%
+351,277,The Bicycle Accessories Company,United States,Specialty Bike Shop,29433.94,0.04,75281904.07,97.08,7,949.48,Remaining 20%
+352,674,Discount Tours,United States,Specialty Bike Shop,29224.33,0.04,75311128.4,97.11,10,479.09,Remaining 20%
+353,493,Valley Bicycle Distributors,United States,Warehouse,28933.81,0.04,75340062.21,97.15,7,672.88,Remaining 20%
+354,365,Distinctive Store,United States,Specialty Bike Shop,28783.51,0.04,75368845.72,97.19,4,1199.31,Remaining 20%
+355,247,Major Amusement Company,France,Specialty Bike Shop,28485.24,0.04,75397330.96,97.23,8,406.93,Remaining 20%
+356,563,Systematic Sales,United States,Warehouse,28407.87,0.04,75425738.83,97.26,4,1235.12,Remaining 20%
+357,265,Full Sports Supply,France,Specialty Bike Shop,28216.61,0.04,75453955.44,97.3,4,688.21,Remaining 20%
+358,95,Rural Department Store,United States,Specialty Bike Shop,27516.62,0.04,75481472.06,97.33,4,1146.53,Remaining 20%
+359,634,Sensible Sports,Australia,Specialty Bike Shop,27283.89,0.04,75508755.95,97.37,4,1299.23,Remaining 20%
+360,504,Historic Bicycle Sales,United States,Specialty Bike Shop,26558.87,0.03,75535314.82,97.4,4,1562.29,Remaining 20%
+361,498,Quick Delivery Service,Canada,Specialty Bike Shop,26307.85,0.03,75561622.67,97.44,4,1753.86,Remaining 20%
+362,2,Progressive Sports,United States,Specialty Bike Shop,25204.31,0.03,75586826.98,97.47,8,360.06,Remaining 20%
+363,550,Remote Bicycle Specialists,Canada,Specialty Bike Shop,25068.36,0.03,75611895.34,97.5,7,455.79,Remaining 20%
+364,631,Tandem Sales And Service,Canada,Specialty Bike Shop,24970.51,0.03,75636865.85,97.53,6,832.35,Remaining 20%
+365,428,West Wind Distributors,Germany,Specialty Bike Shop,23677.15,0.03,75660543.0,97.57,3,1246.17,Remaining 20%
+366,232,Exceptional Cycle Services,United Kingdom,Specialty Bike Shop,23390.0,0.03,75683933.0,97.6,4,570.49,Remaining 20%
+367,8,Exemplary Cycles,United States,Specialty Bike Shop,22522.76,0.03,75706455.76,97.62,4,726.54,Remaining 20%
+368,237,Client Discount Store,United States,Value Added Reseller,22369.2,0.03,75728824.96,97.65,8,475.94,Remaining 20%
+369,114,Two Wheels Cycle Store,United States,Specialty Bike Shop,22340.77,0.03,75751165.73,97.68,4,930.87,Remaining 20%
+370,477,Quitting Business Distributors,United States,Specialty Bike Shop,22238.93,0.03,75773404.66,97.71,3,766.86,Remaining 20%
+371,98,Superlative Bikes,United States,Specialty Bike Shop,22110.44,0.03,75795515.1,97.74,7,614.18,Remaining 20%
+372,68,North Bike Company,Germany,Specialty Bike Shop,22094.35,0.03,75817609.45,97.77,7,394.54,Remaining 20%
+373,241,Vale Riding Supplies,United States,Specialty Bike Shop,21909.33,0.03,75839518.78,97.8,4,1685.33,Remaining 20%
+374,441,Leading Bike Distributors,United States,Specialty Bike Shop,21859.81,0.03,75861378.59,97.82,4,590.81,Remaining 20%
+375,208,Professional Cyclists,Canada,Warehouse,21827.41,0.03,75883206.0,97.85,8,1212.63,Remaining 20%
+376,22,Travel Systems,United States,Value Added Reseller,21339.29,0.03,75904545.29,97.88,10,609.69,Remaining 20%
+377,296,Extreme Toy Store,United States,Warehouse,20510.55,0.03,75925055.84,97.91,7,891.76,Remaining 20%
+378,322,Tachometers And Accessories,United Kingdom,Specialty Bike Shop,20441.81,0.03,75945497.65,97.93,7,567.83,Remaining 20%
+379,680,Racing Tours,France,Specialty Bike Shop,20426.54,0.03,75965924.19,97.96,4,486.35,Remaining 20%
+380,284,Nearby Bike Mall,Germany,Warehouse,20195.35,0.03,75986119.54,97.99,3,917.97,Remaining 20%
+381,698,Western Bike Supplies,United States,Specialty Bike Shop,20168.71,0.03,76006288.25,98.01,4,960.41,Remaining 20%
+382,695,Responsible Bike Dealers,United States,Specialty Bike Shop,20132.03,0.03,76026420.28,98.04,7,335.53,Remaining 20%
+383,295,Engineered Bike Systems,United States,Specialty Bike Shop,20066.89,0.03,76046487.17,98.06,3,872.47,Remaining 20%
+384,53,Incomparable Bicycle Store,United States,Specialty Bike Shop,19911.95,0.03,76066399.12,98.09,3,1171.29,Remaining 20%
+385,511,Wheel Gallery,United States,Warehouse,19413.99,0.03,76085813.11,98.11,4,882.45,Remaining 20%
+386,604,Sellers Of Cycles,United States,Specialty Bike Shop,19267.02,0.02,76105080.13,98.14,3,1014.05,Remaining 20%
+387,226,Leisure Activities,Canada,Specialty Bike Shop,19151.47,0.02,76124231.6,98.16,4,832.67,Remaining 20%
+388,607,Maintenance And Repair For Bicycles,United States,Specialty Bike Shop,18963.38,0.02,76143194.98,98.19,4,1580.28,Remaining 20%
+389,677,Tire Exchange,Canada,Specialty Bike Shop,18808.15,0.02,76162003.13,98.21,8,276.59,Remaining 20%
+390,220,Best O' Bikes,United States,Specialty Bike Shop,18736.86,0.02,76180739.99,98.24,4,551.08,Remaining 20%
+391,578,The Bike Shop,United States,Warehouse,18521.21,0.02,76199261.2,98.26,9,1322.94,Remaining 20%
+392,378,Grown-Up Bike Store,United States,Warehouse,17803.97,0.02,76217065.17,98.28,4,593.47,Remaining 20%
+393,201,Unsurpassed Bikes,United States,Specialty Bike Shop,17649.29,0.02,76234714.46,98.31,3,980.52,Remaining 20%
+394,395,Online Bike Sellers,United States,Specialty Bike Shop,17582.38,0.02,76252296.84,98.33,3,3516.48,Remaining 20%
+395,253,Roving Sports,United States,Specialty Bike Shop,17320.15,0.02,76269616.99,98.35,7,753.05,Remaining 20%
+396,652,Selected Distributors,United States,Specialty Bike Shop,17162.88,0.02,76286779.87,98.37,4,780.13,Remaining 20%
+397,269,Curbside Universe,United States,Warehouse,16320.45,0.02,76303100.32,98.39,7,680.02,Remaining 20%
+398,165,Third Bike Store,United States,Specialty Bike Shop,16272.89,0.02,76319373.21,98.41,7,478.61,Remaining 20%
+399,56,Latest Accessories Sales,United States,Specialty Bike Shop,16240.27,0.02,76335613.48,98.44,5,1249.25,Remaining 20%
+400,360,Novelty Bikes,United States,Warehouse,16173.76,0.02,76351787.24,98.46,4,673.91,Remaining 20%
+401,541,Nonskid Tire Company,United States,Warehouse,15590.31,0.02,76367377.55,98.48,10,599.63,Remaining 20%
+402,198,Field Trip Inc,United States,Specialty Bike Shop,15075.47,0.02,76382453.02,98.5,8,486.31,Remaining 20%
+403,525,Cycles And Scooters,United States,Specialty Bike Shop,15007.28,0.02,76397460.3,98.52,3,1154.41,Remaining 20%
+404,513,Village Tours,United States,Specialty Bike Shop,14602.99,0.02,76412063.29,98.53,4,405.64,Remaining 20%
+405,344,Fifth Bike Store,United States,Specialty Bike Shop,14237.0,0.02,76426300.29,98.55,10,647.14,Remaining 20%
+406,171,Eighty Toy Stores,United States,Specialty Bike Shop,13974.71,0.02,76440275.0,98.57,3,635.21,Remaining 20%
+407,44,Games And Sport Supply Company,United States,Specialty Bike Shop,13709.29,0.02,76453984.29,98.59,3,1958.47,Remaining 20%
+408,162,Tire Company,United States,Specialty Bike Shop,13657.51,0.02,76467641.8,98.61,5,803.38,Remaining 20%
+409,551,Vinyl And Plastic Goods Corporation,Canada,Warehouse,13470.99,0.02,76481112.79,98.62,8,1496.78,Remaining 20%
+410,172,Certified Sports Supply,Canada,Warehouse,13322.36,0.02,76494435.15,98.64,5,2220.39,Remaining 20%
+411,250,Express Bike Services,United Kingdom,Specialty Bike Shop,13219.53,0.02,76507654.68,98.66,4,338.96,Remaining 20%
+412,379,Fad Outlet,United States,Value Added Reseller,13188.23,0.02,76520842.91,98.67,6,732.68,Remaining 20%
+413,200,Basic Bike Company,United States,Value Added Reseller,13137.37,0.02,76533980.28,98.69,8,486.57,Remaining 20%
+414,639,Producer Goods Clearinghouse,Germany,Value Added Reseller,12795.38,0.02,76546775.66,98.71,7,492.13,Remaining 20%
+415,386,Touring Services,United States,Specialty Bike Shop,12790.07,0.02,76559565.73,98.72,5,673.16,Remaining 20%
+416,656,Impervious Paint Company,France,Specialty Bike Shop,12728.16,0.02,76572293.89,98.74,4,748.72,Remaining 20%
+417,9,Tandem Bicycle Store,United States,Warehouse,12680.07,0.02,76584973.96,98.76,7,422.67,Remaining 20%
+418,629,Efficient Cycling,Canada,Warehouse,12565.95,0.02,76597539.91,98.77,4,897.57,Remaining 20%
+419,587,Our Sporting Goods Store,Canada,Warehouse,12456.78,0.02,76609996.69,98.79,4,830.45,Remaining 20%
+420,25,Coalition Bike Company,United States,Value Added Reseller,12319.29,0.02,76622315.98,98.81,7,267.81,Remaining 20%
+421,369,Distinctive Cycles Sales & Service,United States,Warehouse,12306.54,0.02,76634622.52,98.82,4,1538.32,Remaining 20%
+422,399,Big Cycle Mall,United States,Warehouse,12262.04,0.02,76646884.56,98.84,4,1114.73,Remaining 20%
+423,383,Vehicle Shop,United States,Specialty Bike Shop,12216.33,0.02,76659100.89,98.85,8,421.25,Remaining 20%
+424,478,Major Cycling,Canada,Warehouse,12056.24,0.02,76671157.13,98.87,11,861.16,Remaining 20%
+425,407,Workout Emporium,Canada,Specialty Bike Shop,11932.48,0.02,76683089.61,98.88,3,1704.64,Remaining 20%
+426,583,Professional Containers And Packaging Co.,United States,Specialty Bike Shop,11739.76,0.02,76694829.37,98.9,4,345.29,Remaining 20%
+427,159,Uncompromising Quality Co,Australia,Specialty Bike Shop,11676.32,0.02,76706505.69,98.91,4,1061.48,Remaining 20%
+428,337,Recreation Toy Store,France,Value Added Reseller,11652.87,0.02,76718158.56,98.93,8,388.43,Remaining 20%
+429,528,Alpine Ski House,United States,Specialty Bike Shop,11346.83,0.01,76729505.39,98.94,7,810.49,Remaining 20%
+430,316,Low Price Cycles,Canada,Specialty Bike Shop,11277.05,0.01,76740782.44,98.96,4,805.5,Remaining 20%
+431,26,Stylish Department Stores,United States,Specialty Bike Shop,11250.27,0.01,76752032.71,98.97,3,803.59,Remaining 20%
+432,390,Plastic Parts Company,Canada,Warehouse,11138.69,0.01,76763171.4,98.99,8,1392.34,Remaining 20%
+433,291,Grand Bicycle Stores,United States,Value Added Reseller,11099.67,0.01,76774271.07,99.0,7,1233.3,Remaining 20%
+434,300,Nice Bikes,Canada,Value Added Reseller,11035.81,0.01,76785306.88,99.02,4,735.72,Remaining 20%
+435,562,Practical Bike Supply Company,United States,Specialty Bike Shop,10717.83,0.01,76796024.71,99.03,4,1339.73,Remaining 20%
+436,275,Outdoor Sporting Goods,United States,Warehouse,10655.41,0.01,76806680.12,99.04,3,819.65,Remaining 20%
+437,80,Racks And Security Systems,United States,Specialty Bike Shop,10517.28,0.01,76817197.4,99.06,4,1752.88,Remaining 20%
+438,307,Riding Associates,United States,Specialty Bike Shop,10357.86,0.01,76827555.26,99.07,4,575.44,Remaining 20%
+439,570,Family'S Favorite Bike Shop,Canada,Value Added Reseller,10237.73,0.01,76837792.99,99.08,7,602.22,Remaining 20%
+440,310,Orange Bicycle Company,United States,Specialty Bike Shop,10030.0,0.01,76847822.99,99.1,7,179.11,Remaining 20%
+441,141,Rental Gallery,Australia,Specialty Bike Shop,9601.6,0.01,76857424.59,99.11,4,266.71,Remaining 20%
+442,287,Handy Bike Services,United States,Warehouse,9593.37,0.01,76867017.96,99.12,5,959.34,Remaining 20%
+443,104,Very Best Sports Supply,Germany,Specialty Bike Shop,9518.04,0.01,76876536.0,99.13,5,500.95,Remaining 20%
+444,271,Alternative Vehicles,United States,Specialty Bike Shop,9127.81,0.01,76885663.81,99.15,3,829.8,Remaining 20%
+445,238,A Great Bicycle Company,United States,Specialty Bike Shop,9055.29,0.01,76894719.1,99.16,6,646.81,Remaining 20%
+446,471,Social Activities Club,United States,Specialty Bike Shop,8997.81,0.01,76903716.91,99.17,8,642.7,Remaining 20%
+447,429,Unusual Bicycle Company,Australia,Warehouse,8978.65,0.01,76912695.56,99.18,4,897.87,Remaining 20%
+448,334,Retreat Inn,Canada,Value Added Reseller,8917.46,0.01,76921613.02,99.19,8,424.64,Remaining 20%
+449,323,Metro Bike Works,United States,Warehouse,8886.45,0.01,76930499.47,99.2,7,987.38,Remaining 20%
+450,195,Inexpensive Parts Shop,Australia,Specialty Bike Shop,8690.75,0.01,76939190.22,99.21,3,289.69,Remaining 20%
+451,595,Cycle Clearance,United States,Specialty Bike Shop,8653.52,0.01,76947843.74,99.23,3,1081.69,Remaining 20%
+452,190,Racing Partners,Canada,Warehouse,8641.64,0.01,76956485.38,99.24,3,432.08,Remaining 20%
+453,495,Tough And Reliable Parts,United States,Specialty Bike Shop,8537.44,0.01,76965022.82,99.25,6,656.73,Remaining 20%
+454,596,Coho Sports,United States,Warehouse,8522.77,0.01,76973545.59,99.26,8,608.77,Remaining 20%
+455,458,Simple Bike Parts,United States,Value Added Reseller,8288.76,0.01,76981834.35,99.27,8,637.6,Remaining 20%
+456,572,Versatile Sporting Goods Company,Germany,Warehouse,8140.73,0.01,76989975.08,99.28,6,904.53,Remaining 20%
+457,543,Friendly Neighborhood Bikes,United States,Specialty Bike Shop,8094.53,0.01,76998069.61,99.29,4,674.54,Remaining 20%
+458,229,Instant Cycle Store,France,Specialty Bike Shop,8075.38,0.01,77006144.99,99.3,6,448.63,Remaining 20%
+459,392,Primary Cycle Shop,Germany,Specialty Bike Shop,7963.89,0.01,77014108.88,99.31,6,568.85,Remaining 20%
+460,262,General Industries,Canada,Specialty Bike Shop,7856.52,0.01,77021965.4,99.32,6,163.68,Remaining 20%
+461,557,Purchase Mart,United States,Warehouse,7781.92,0.01,77029747.32,99.33,3,457.76,Remaining 20%
+462,7,Associated Bikes,United States,Value Added Reseller,7780.34,0.01,77037527.66,99.34,4,486.27,Remaining 20%
+463,96,More Bikes!,United States,Warehouse,7719.7,0.01,77045247.36,99.35,3,1286.62,Remaining 20%
+464,124,Nearby Sporting Goods,United Kingdom,Warehouse,7695.67,0.01,77052943.03,99.36,5,1539.13,Remaining 20%
+465,669,Racing Bike Outlet,United States,Warehouse,7643.95,0.01,77060586.98,99.37,7,509.6,Remaining 20%
+466,561,Mountain Toy Store,United States,Value Added Reseller,7612.45,0.01,77068199.43,99.38,9,634.37,Remaining 20%
+467,39,Fitness Hotel,United States,Warehouse,7603.32,0.01,77075802.75,99.39,7,422.41,Remaining 20%
+468,597,All Seasons Sports Supply,United States,Value Added Reseller,7436.28,0.01,77083239.03,99.4,4,619.69,Remaining 20%
+469,38,Finer Mart,United States,Specialty Bike Shop,7409.2,0.01,77090648.23,99.41,3,823.24,Remaining 20%
+470,637,Reliable Retail Center,Canada,Specialty Bike Shop,7111.09,0.01,77097759.32,99.42,5,592.59,Remaining 20%
+471,351,Acclaimed Bicycle Company,United States,Warehouse,7079.93,0.01,77104839.25,99.43,3,707.99,Remaining 20%
+472,412,Leisure Clearing House,United Kingdom,Value Added Reseller,7047.58,0.01,77111886.83,99.44,5,542.12,Remaining 20%
+473,398,Commendable Bikes,United States,Specialty Bike Shop,6962.34,0.01,77118849.17,99.45,6,535.56,Remaining 20%
+474,673,Countryside Company,United States,Value Added Reseller,6947.52,0.01,77125796.69,99.45,7,496.25,Remaining 20%
+475,488,Bicycle Accessories And Kits,United States,Value Added Reseller,6587.38,0.01,77132384.07,99.46,3,598.85,Remaining 20%
+476,212,Enterprise Center,Germany,Value Added Reseller,6511.02,0.01,77138895.09,99.47,3,651.1,Remaining 20%
+477,150,Fleet Bikes,United States,Specialty Bike Shop,6417.11,0.01,77145312.2,99.48,3,1069.52,Remaining 20%
+478,615,Fast Services,Germany,Value Added Reseller,6368.96,0.01,77151681.16,99.49,5,530.75,Remaining 20%
+479,160,Vigorous Sports Store,United Kingdom,Warehouse,6324.64,0.01,77158005.8,99.5,6,574.97,Remaining 20%
+480,424,Bikes For Two,Canada,Value Added Reseller,6241.55,0.01,77164247.35,99.5,7,283.71,Remaining 20%
+481,168,Economy Bikes Company,United States,Specialty Bike Shop,6221.05,0.01,77170468.4,99.51,3,1244.21,Remaining 20%
+482,350,Mountain Emporium,United States,Specialty Bike Shop,6214.25,0.01,77176682.65,99.52,1,6214.25,Remaining 20%
+483,37,Two Bike Shops,United States,Value Added Reseller,6037.69,0.01,77182720.34,99.53,7,603.77,Remaining 20%
+484,359,Mechanical Sports Center,United States,Specialty Bike Shop,6020.08,0.01,77188740.42,99.54,7,120.4,Remaining 20%
+485,555,Twin Cycles,Australia,Value Added Reseller,6001.36,0.01,77194741.78,99.54,3,600.14,Remaining 20%
+486,545,Finish And Sealant Products,United States,Value Added Reseller,5925.81,0.01,77200667.59,99.55,3,493.82,Remaining 20%
+487,651,Retread Tire Company,United States,Value Added Reseller,5751.62,0.01,77206419.21,99.56,4,718.95,Remaining 20%
+488,548,New Bikes Company,United States,Warehouse,5670.23,0.01,77212089.44,99.57,4,945.04,Remaining 20%
+489,641,Extended Tours,United Kingdom,Warehouse,5615.55,0.01,77217704.99,99.57,4,623.95,Remaining 20%
+490,217,City Manufacturing,United States,Warehouse,5575.2,0.01,77223280.19,99.58,7,557.52,Remaining 20%
+491,151,Futuristic Bikes,United States,Warehouse,5555.67,0.01,77228835.86,99.59,6,326.8,Remaining 20%
+492,663,Capital Riding Supplies,Germany,Warehouse,5449.35,0.01,77234285.21,99.59,4,544.94,Remaining 20%
+493,330,The New Bike Store,United States,Warehouse,5362.56,0.01,77239647.77,99.6,7,766.08,Remaining 20%
+494,603,Retail Toy Store,United States,Value Added Reseller,5291.42,0.01,77244939.19,99.61,7,755.92,Remaining 20%
+495,178,Rampart Amusement Company,United Kingdom,Warehouse,5229.91,0.01,77250169.1,99.62,4,581.1,Remaining 20%
+496,645,Superior Hardware Distributors,United States,Value Added Reseller,5229.19,0.01,77255398.29,99.62,7,653.65,Remaining 20%
+497,701,Future Bikes,Canada,Warehouse,5173.96,0.01,77260572.25,99.63,5,470.36,Remaining 20%
+498,580,Rural Sales And Service,United States,Specialty Bike Shop,5146.32,0.01,77265718.57,99.64,2,735.19,Remaining 20%
+499,503,Metropolitan Sales And Rental,United States,Value Added Reseller,5130.01,0.01,77270848.58,99.64,7,570.0,Remaining 20%
+500,387,Racing Association,United States,Warehouse,5090.46,0.01,77275939.04,99.65,5,1018.09,Remaining 20%
+501,115,Security Racks And Locks Wholesalers,United States,Warehouse,5085.41,0.01,77281024.45,99.65,8,423.78,Remaining 20%
+502,510,World Bike Discount Store,United States,Specialty Bike Shop,4918.49,0.01,77285942.94,99.66,8,491.85,Remaining 20%
+503,30,Cycle Merchants,Canada,Warehouse,4869.64,0.01,77290812.58,99.67,7,347.83,Remaining 20%
+504,112,Town Industries,United States,Warehouse,4854.48,0.01,77295667.06,99.67,2,1618.16,Remaining 20%
+505,305,Professional Sporting Goods,United States,Warehouse,4848.29,0.01,77300515.35,99.68,4,808.05,Remaining 20%
+506,14,Bicycle Warehouse Inc.,Germany,Specialty Bike Shop,4795.19,0.01,77305310.54,99.69,5,141.03,Remaining 20%
+507,181,Family Entertainment Center,United States,Warehouse,4758.6,0.01,77310069.14,99.69,4,679.8,Remaining 20%
+508,446,Fitness Toys,Germany,Value Added Reseller,4689.12,0.01,77314758.26,99.7,4,586.14,Remaining 20%
+509,214,Exclusive Bicycle Mart,United Kingdom,Warehouse,4680.9,0.01,77319439.16,99.7,6,668.7,Remaining 20%
+510,318,First-Rate Outlet,Canada,Value Added Reseller,4537.65,0.01,77323976.81,99.71,4,453.76,Remaining 20%
+511,635,Sports Store,United Kingdom,Warehouse,4394.01,0.01,77328370.82,99.72,3,878.8,Remaining 20%
+512,449,Bike Products And Accessories,United States,Value Added Reseller,4378.65,0.01,77332749.47,99.72,8,199.03,Remaining 20%
+513,276,Thrifty Parts And Sales,United States,Value Added Reseller,4300.57,0.01,77337050.04,99.73,3,860.11,Remaining 20%
+514,400,Local Sales And Rental,United States,Value Added Reseller,4182.89,0.01,77341232.93,99.73,3,464.77,Remaining 20%
+515,67,Self-Contained Cycle Parts Company,France,Value Added Reseller,4132.53,0.01,77345365.46,99.74,6,516.57,Remaining 20%
+516,372,Top Bike Market,Canada,Warehouse,4090.24,0.01,77349455.7,99.74,2,681.71,Remaining 20%
+517,33,Global Sports Outlet,Australia,Warehouse,4038.02,0.01,77353493.72,99.75,3,807.6,Remaining 20%
+518,601,Transport Bikes,United States,Specialty Bike Shop,4031.26,0.01,77357524.98,99.75,3,447.92,Remaining 20%
+519,489,Cash & Carry Bikes,United States,Specialty Bike Shop,4008.83,0.01,77361533.81,99.76,4,801.77,Remaining 20%
+520,137,Transportation Options,Canada,Value Added Reseller,3975.27,0.01,77365509.08,99.76,5,567.9,Remaining 20%
+521,468,Blue Bicycle Company,United States,Specialty Bike Shop,3922.28,0.01,77369431.36,99.77,3,784.46,Remaining 20%
+522,113,Trendy Department Stores,United States,Value Added Reseller,3791.08,0.0,77373222.44,99.77,3,758.22,Remaining 20%
+523,157,Ace Bicycle Supply,France,Warehouse,3749.11,0.0,77376971.55,99.78,6,624.85,Remaining 20%
+524,591,Fitness Discount Store,Australia,Value Added Reseller,3645.68,0.0,77380617.23,99.78,4,140.22,Remaining 20%
+525,152,Distance Bikes,United States,Value Added Reseller,3611.22,0.0,77384228.45,99.79,6,515.89,Remaining 20%
+526,554,Top Of The Line Bikes,Germany,Warehouse,3563.08,0.0,77387791.53,99.79,3,712.62,Remaining 20%
+527,606,Little Bicycle Supply Shop,United States,Value Added Reseller,3560.92,0.0,77391352.45,99.8,3,593.49,Remaining 20%
+528,94,Specialty Sports Store,United States,Value Added Reseller,3531.42,0.0,77394883.87,99.8,8,235.43,Remaining 20%
+529,694,The Accessories Store,United States,Value Added Reseller,3520.15,0.0,77398404.02,99.81,5,440.02,Remaining 20%
+530,568,Economy Center,Canada,Specialty Bike Shop,3464.17,0.0,77401868.19,99.81,3,1154.72,Remaining 20%
+531,357,Quality Bike Sales,Australia,Warehouse,3404.13,0.0,77405272.32,99.82,4,680.83,Remaining 20%
+532,148,Lots Of Bikes Storehouse,United States,Warehouse,3385.35,0.0,77408657.67,99.82,5,564.23,Remaining 20%
+533,303,Seaside Bike Works,Australia,Value Added Reseller,3379.37,0.0,77412037.04,99.82,3,375.49,Remaining 20%
+534,321,Second Bike Shop,Australia,Value Added Reseller,3288.92,0.0,77415325.96,99.83,3,1096.31,Remaining 20%
+534,70,Outdoor Aerobic Systems Company,United Kingdom,Value Added Reseller,3288.92,0.0,77418614.88,99.83,3,1096.31,Remaining 20%
+536,128,Demand Distributors,United States,Value Added Reseller,3273.74,0.0,77421888.62,99.84,5,363.75,Remaining 20%
+537,593,Expert Sports Store,United States,Warehouse,3053.52,0.0,77424942.14,99.84,3,508.92,Remaining 20%
+538,440,Hobby Store,United States,Value Added Reseller,3048.48,0.0,77427990.62,99.84,8,234.5,Remaining 20%
+539,325,All Cycle Shop,United States,Specialty Bike Shop,3028.45,0.0,77431019.07,99.85,8,108.16,Remaining 20%
+540,28,Commuter Bicycle Store,Canada,Value Added Reseller,2999.3,0.0,77434018.37,99.85,4,149.97,Remaining 20%
+541,577,Synthetic Materials Manufacturing,United States,Specialty Bike Shop,2898.74,0.0,77436917.11,99.86,3,579.75,Remaining 20%
+542,117,Pedals Warehouse,United States,Specialty Bike Shop,2845.73,0.0,77439762.84,99.86,6,355.72,Remaining 20%
+543,636,Recreation Systems,United States,Value Added Reseller,2841.15,0.0,77442603.99,99.86,6,202.94,Remaining 20%
+544,664,Eastside Cycle Shop,Australia,Value Added Reseller,2719.22,0.0,77445323.21,99.87,4,543.84,Remaining 20%
+545,472,Summer Sports Place,United States,Warehouse,2518.5,0.0,77447841.71,99.87,4,629.63,Remaining 20%
+546,202,Two-Seater Bikes,United States,Warehouse,2509.61,0.0,77450351.32,99.87,2,1254.81,Remaining 20%
+547,434,Road-Way Mart,United States,Specialty Bike Shop,2485.7,0.0,77452837.02,99.88,1,2485.7,Remaining 20%
+548,598,Black Bicycle Company,United States,Specialty Bike Shop,2472.31,0.0,77455309.33,99.88,2,1236.15,Remaining 20%
+549,574,Area Sheet Metal Supply,United Kingdom,Specialty Bike Shop,2446.35,0.0,77457755.68,99.88,5,349.48,Remaining 20%
+550,628,Executive Discount Store,United States,Specialty Bike Shop,2418.83,0.0,77460174.51,99.89,2,806.28,Remaining 20%
+551,111,Westside Cycle Store,United States,Specialty Bike Shop,2414.87,0.0,77462589.38,99.89,4,241.49,Remaining 20%
+552,51,Ideal Components,Australia,Warehouse,2386.78,0.0,77464976.16,99.89,2,1193.39,Remaining 20%
+553,225,Optimal Bikes,United States,Value Added Reseller,2254.75,0.0,77467230.91,99.9,4,161.05,Remaining 20%
+554,285,Nearest Bike Store,Australia,Value Added Reseller,2207.15,0.0,77469438.06,99.9,2,551.79,Remaining 20%
+555,411,Kids And Adults Cycle Shop,Australia,Warehouse,2130.75,0.0,77471568.81,99.9,3,710.25,Remaining 20%
+556,443,Courteous Bicycle Specialists,Canada,Value Added Reseller,2118.24,0.0,77473687.05,99.9,3,423.65,Remaining 20%
+557,609,Good Toys,United States,Value Added Reseller,2090.17,0.0,77475777.22,99.91,5,348.36,Remaining 20%
+558,31,Wheels Inc.,France,Value Added Reseller,2074.7,0.0,77477851.92,99.91,2,691.57,Remaining 20%
+559,532,The Showroom,Canada,Warehouse,2041.07,0.0,77479892.99,99.91,4,408.21,Remaining 20%
+560,58,Largest Bike Store,United States,Value Added Reseller,1938.92,0.0,77481831.91,99.91,5,242.37,Remaining 20%
+561,251,Endurance Bikes,United States,Warehouse,1893.49,0.0,77483725.4,99.92,4,378.7,Remaining 20%
+562,483,Fitness Bike Accessories,Australia,Specialty Bike Shop,1859.62,0.0,77485585.02,99.92,2,371.92,Remaining 20%
+563,616,Eastward Bike Accessories,Australia,Specialty Bike Shop,1858.81,0.0,77487443.83,99.92,3,371.76,Remaining 20%
+564,690,Active Cycling,United States,Warehouse,1805.45,0.0,77489249.28,99.92,2,902.72,Remaining 20%
+565,696,Roadway Supplies,United States,Warehouse,1778.42,0.0,77491027.7,99.93,2,889.21,Remaining 20%
+566,224,Pedal Systems Company,United States,Warehouse,1772.42,0.0,77492800.12,99.93,4,443.11,Remaining 20%
+567,211,Sports Products Store,France,Warehouse,1732.72,0.0,77494532.84,99.93,4,346.54,Remaining 20%
+568,382,Beneficial Exercises And Activities,United States,Value Added Reseller,1714.68,0.0,77496247.52,99.93,5,342.94,Remaining 20%
+569,228,Home Town Bike Store,Canada,Value Added Reseller,1707.02,0.0,77497954.54,99.93,3,341.4,Remaining 20%
+570,69,Online Bike Catalog,Australia,Warehouse,1683.22,0.0,77499637.76,99.94,3,420.81,Remaining 20%
+571,268,Channel Outlet,United Kingdom,Specialty Bike Shop,1633.08,0.0,77501270.84,99.94,2,96.06,Remaining 20%
+572,349,Exercise Center,United States,Value Added Reseller,1625.25,0.0,77502896.09,99.94,4,270.88,Remaining 20%
+573,665,Authentic Sales And Service,United Kingdom,Specialty Bike Shop,1618.28,0.0,77504514.37,99.94,4,124.48,Remaining 20%
+574,242,Spoke Manufacturers,United States,Warehouse,1615.2,0.0,77506129.57,99.95,5,323.04,Remaining 20%
+575,630,Eastside Parts Shop,Canada,Value Added Reseller,1586.58,0.0,77507716.15,99.95,2,528.86,Remaining 20%
+576,466,Central Bicycle Specialists,United Kingdom,Warehouse,1583.63,0.0,77509299.78,99.95,2,527.88,Remaining 20%
+577,445,First Center,France,Warehouse,1559.65,0.0,77510859.43,99.95,3,519.88,Remaining 20%
+578,248,Good Bicycle Store,Germany,Warehouse,1538.17,0.0,77512397.6,99.95,2,769.09,Remaining 20%
+579,518,Regional Cycle Shop,Germany,Value Added Reseller,1525.38,0.0,77513922.98,99.96,3,508.46,Remaining 20%
+580,421,Fitness Cycling,United States,Value Added Reseller,1524.73,0.0,77515447.71,99.96,4,304.95,Remaining 20%
+581,633,Rustic Bike Store,Germany,Value Added Reseller,1508.44,0.0,77516956.15,99.96,3,301.69,Remaining 20%
+582,439,Regional Manufacturing,United States,Warehouse,1440.8,0.0,77518396.95,99.96,2,720.4,Remaining 20%
+583,610,Fitness Department Stores,United States,Specialty Bike Shop,1411.18,0.0,77519808.13,99.96,3,470.39,Remaining 20%
+584,462,General Riding Supplies,Canada,Specialty Bike Shop,1399.78,0.0,77521207.91,99.96,2,699.89,Remaining 20%
+585,590,Lustrous Paints And Components,Germany,Warehouse,1344.58,0.0,77522552.49,99.97,1,1344.58,Remaining 20%
+586,243,Recreation Supplies,United States,Value Added Reseller,1295.98,0.0,77523848.47,99.97,1,1295.98,Remaining 20%
+587,534,Recommended Bicycles,Canada,Specialty Bike Shop,1294.25,0.0,77525142.72,99.97,2,647.13,Remaining 20%
+588,470,Wingtip Toys,United States,Value Added Reseller,1291.76,0.0,77526434.48,99.97,3,430.59,Remaining 20%
+589,370,Acceptable Sales & Service,Canada,Value Added Reseller,1258.38,0.0,77527692.86,99.97,2,419.46,Remaining 20%
+590,516,Seats And Saddles Company,Canada,Specialty Bike Shop,1229.46,0.0,77528922.32,99.97,1,1229.46,Remaining 20%
+591,122,Off-Price Bike Center,Germany,Value Added Reseller,1168.26,0.0,77530090.58,99.98,3,389.42,Remaining 20%
+592,560,Major Sport Suppliers,United States,Warehouse,1146.23,0.0,77531236.81,99.98,4,229.25,Remaining 20%
+593,134,Budget Bike Company,United States,Value Added Reseller,1066.44,0.0,77532303.25,99.98,3,355.48,Remaining 20%
+594,116,Retirement Activities Association,United States,Value Added Reseller,1060.11,0.0,77533363.36,99.98,4,265.03,Remaining 20%
+595,681,Showcase For Cycles,Germany,Warehouse,1029.19,0.0,77534392.55,99.98,2,514.6,Remaining 20%
+596,185,Weekend Bike Tours,United States,Value Added Reseller,1020.59,0.0,77535413.14,99.98,1,1020.59,Remaining 20%
+597,288,Kickstand Sellers,United States,Value Added Reseller,973.64,0.0,77536386.78,99.98,3,162.27,Remaining 20%
+598,6,Aerobic Exercise Company,United States,Warehouse,943.74,0.0,77537330.52,99.99,3,188.75,Remaining 20%
+599,625,Major Sporting Goods,United States,Specialty Bike Shop,939.58,0.0,77538270.1,99.99,2,469.79,Remaining 20%
+600,553,Accessories Network,France,Specialty Bike Shop,779.47,0.0,77539049.57,99.99,2,389.74,Remaining 20%
+601,388,Road Way Sales And Rental,Canada,Value Added Reseller,758.94,0.0,77539808.51,99.99,2,379.47,Remaining 20%
+602,314,One-Piece Handle Bars,United States,Warehouse,722.59,0.0,77540531.1,99.99,1,722.59,Remaining 20%
+603,406,The Commissary,Canada,Value Added Reseller,714.5,0.0,77541245.6,99.99,2,357.25,Remaining 20%
+604,654,Online Bike Warehouse,Canada,Value Added Reseller,667.83,0.0,77541913.43,99.99,2,333.92,Remaining 20%
+605,274,Active Systems,United States,Specialty Bike Shop,643.31,0.0,77542556.74,99.99,3,107.22,Remaining 20%
+606,358,Mail Market,United Kingdom,Value Added Reseller,465.87,0.0,77543022.61,99.99,3,77.64,Remaining 20%
+607,659,Shipping Specialists,United Kingdom,Specialty Bike Shop,443.95,0.0,77543466.56,99.99,2,221.97,Remaining 20%
+608,129,Discount Bicycle Specialists,United States,Specialty Bike Shop,419.46,0.0,77543886.02,99.99,1,419.46,Remaining 20%
+608,456,Riding Excursions,United States,Specialty Bike Shop,419.46,0.0,77544305.48,99.99,1,419.46,Remaining 20%
+608,74,Parcel Express Delivery Service,United States,Specialty Bike Shop,419.46,0.0,77544724.94,100.0,1,419.46,Remaining 20%
+611,427,Atypical Bike Company,France,Value Added Reseller,381.19,0.0,77545106.13,100.0,2,190.59,Remaining 20%
+612,49,Neighborhood Bicycle Storehouse,France,Value Added Reseller,345.57,0.0,77545451.7,100.0,2,69.11,Remaining 20%
+613,153,Widget Bicycle Specialists,United States,Specialty Bike Shop,323.99,0.0,77545775.69,100.0,1,323.99,Remaining 20%
+613,699,Sensational Discount Store,United States,Warehouse,323.99,0.0,77546099.68,100.0,1,323.99,Remaining 20%
+615,106,West Side Mart,United Kingdom,Value Added Reseller,276.25,0.0,77546375.93,100.0,2,138.13,Remaining 20%
+616,19,Center Cycle Shop,United States,Value Added Reseller,249.54,0.0,77546625.47,100.0,1,124.77,Remaining 20%
+617,338,Rambling Tours,Germany,Specialty Bike Shop,228.57,0.0,77546854.04,100.0,1,114.28,Remaining 20%
+618,46,Gear-Shift Bikes Limited,Canada,Value Added Reseller,202.33,0.0,77547056.37,100.0,1,202.33,Remaining 20%
+619,339,Major Bicycle Store,Australia,Warehouse,200.05,0.0,77547256.42,100.0,1,200.05,Remaining 20%
+619,617,Tubeless Tire Company,United Kingdom,Warehouse,200.05,0.0,77547456.47,100.0,1,200.05,Remaining 20%
+621,626,Retail Sporting Goods,United States,Warehouse,183.94,0.0,77547640.41,100.0,1,183.94,Remaining 20%
+622,524,Chain And Chain Tool Distributions,United States,Value Added Reseller,165.23,0.0,77547805.64,100.0,1,165.23,Remaining 20%
+623,467,The Cycle Store,United States,Value Added Reseller,149.87,0.0,77547955.51,100.0,1,149.87,Remaining 20%
+624,564,Imported And Domestic Cycles,United States,Value Added Reseller,149.03,0.0,77548104.54,100.0,1,149.03,Remaining 20%
+625,50,Hometown Riding Supplies,Germany,Specialty Bike Shop,144.0,0.0,77548248.54,100.0,1,144.0,Remaining 20%
+626,474,Retail Cycle Shop,United States,Specialty Bike Shop,91.16,0.0,77548339.7,100.0,1,91.16,Remaining 20%
+627,219,Extras Sporting Goods,United States,Value Added Reseller,67.54,0.0,77548407.24,100.0,1,67.54,Remaining 20%
+628,246,Large Bike Shop,Canada,Value Added Reseller,58.06,0.0,77548465.3,100.0,2,29.03,Remaining 20%
+629,215,Eleventh Bike Store,United States,Value Added Reseller,57.68,0.0,77548522.98,100.0,1,57.68,Remaining 20%
+630,459,Parts Shop,United States,Specialty Bike Shop,24.29,0.0,77548547.27,100.0,1,24.29,Remaining 20%
+631,304,Essential Bike Works,United Kingdom,Specialty Bike Shop,21.56,0.0,77548568.83,100.0,1,21.56,Remaining 20%
+632,521,Mobile Outlet,United States,Value Added Reseller,1.37,0.0,77548570.2,100.0,1,1.37,Remaining 20%

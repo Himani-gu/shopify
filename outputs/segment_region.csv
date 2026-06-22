@@ -1,0 +1,11 @@
+region_name,country,total_revenue,total_profit,profit_margin_pct,unique_customers,total_orders,revenue_share_pct
+Southwest,United States,18001116.1,110750.76,0.62,115,717,23.21
+Canada,Canada,13875632.96,255576.41,1.84,104,658,17.89
+Northwest,United States,12004822.45,304235.84,2.53,87,513,15.48
+Southeast,United States,7638606.55,168495.82,2.21,79,455,9.85
+Central,United States,7633386.86,165349.24,2.17,61,363,9.84
+Northeast,United States,6715354.39,109598.52,1.63,49,331,8.66
+France,France,4527839.69,5332.16,0.12,34,179,5.84
+United Kingdom,United Kingdom,3883042.96,41429.48,1.07,38,174,5.01
+Germany,Germany,1877743.39,-80996.89,-4.31,32,118,2.42
+Australia,Australia,1391024.85,-80276.77,-5.77,33,108,1.79
